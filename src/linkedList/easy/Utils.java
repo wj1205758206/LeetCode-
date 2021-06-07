@@ -32,4 +32,15 @@ public class Utils {
         }
     }
 
+    /*尾插法*/
+    public static ListNode addTail(ListNode head, int val) {
+        ListNode node = new ListNode(val);
+        ListNode cur = head;
+
+        while (cur.next != null)
+            cur = cur.next;
+        cur.next = node;
+        return head;
+    }
+
 }
