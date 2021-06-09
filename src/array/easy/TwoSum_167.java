@@ -1,4 +1,4 @@
-package array.medium;
+package array.easy;
 
 public class TwoSum_167 {
     public static void main(String[] args) {
