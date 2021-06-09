@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b23fad0-4682-4df6-98f3-3a0b5c4f9dc2" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/array/easy/RemoveDuplicatesFromSortedArray_26.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Note/string/easy/ValidParentheses_20.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/array/easy/TwoSum_1.java" afterPath="$PROJECT_DIR$/src/array/easy/TwoSum_1.java" />
+      <change beforePath="$PROJECT_DIR$/src/array/easy/TwoSum_167.java" afterPath="$PROJECT_DIR$/src/array/easy/TwoSum_167.java" />
+      <change beforePath="$PROJECT_DIR$/src/array/easy/TwoSum_170.java" afterPath="$PROJECT_DIR$/src/array/easy/TwoSum_170.java" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/easy/LinkedListCycle_141.java" afterPath="$PROJECT_DIR$/src/linkedList/easy/LinkedListCycle_141.java" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/easy/LinkedListCycle_142.java" afterPath="$PROJECT_DIR$/src/linkedList/easy/LinkedListCycle_142.java" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/hard/ReverseGroup_25.java" afterPath="$PROJECT_DIR$/src/linkedList/hard/ReverseGroup_25.java" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/medium/RemoveNthNodeFromEndOfList_19.java" afterPath="$PROJECT_DIR$/src/linkedList/medium/RemoveNthNodeFromEndOfList_19.java" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/medium/ReverseLinkedList_92.java" afterPath="$PROJECT_DIR$/src/linkedList/medium/ReverseLinkedList_92.java" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/medium/Utils.java" afterPath="$PROJECT_DIR$/src/linkedList/medium/Utils.java" />
+      <change beforePath="$PROJECT_DIR$/src/string/easy/ReverseString_344.java" afterPath="$PROJECT_DIR$/src/string/easy/ReverseString_344.java" />
+      <change beforePath="$PROJECT_DIR$/src/string/easy/ValidParentheses_20.java" afterPath="$PROJECT_DIR$/src/string/easy/ValidParentheses_20.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -452,7 +465,7 @@
       <workItem from="1622892199365" duration="1198000" />
       <workItem from="1622962986854" duration="920000" />
       <workItem from="1622972162492" duration="700000" />
-      <workItem from="1623032585875" duration="33962000" />
+      <workItem from="1623032585875" duration="34089000" />
     </task>
     <task id="LOCAL-00001" summary="No.28 Implement strStr 添加新的解题方法">
       <created>1622197046545</created>
@@ -465,7 +478,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102686000" />
+    <option name="totallyTimeSpent" value="102813000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
