@@ -34,12 +34,17 @@ public class ImplementStackUsingQueues_225 {
 
         /** Removes the element on top of the stack and returns that element. */
         public int pop() {
-            /*循环把尾部前面的元素全部弹出，并且重新加入到队列尾部，这样原来尾部的元素成为了队列头部元素*/
+            /*留下队尾两个元素，循环把这两个元素前面的元素全部弹出，并且重新加入到队列尾部，这样原来尾部的元素成为了队列头部元素*/
             int size = queue.size();
-            while (size > 1) {
+            while (size > 2) {
                 queue.offer(queue.poll());
                 size--;
             }
+            //弹出队尾元素之后，倒数第二个元素就会成为新的队尾，记录新的队尾元素
+            top = queue.peek();
+            //再把新记录的队尾元素弹出，重新加入到队列尾部
+            queue.offer(queue.poll());
+
             /*弹出队列头部元素，即为栈顶元素*/
             return queue.poll();
         }
