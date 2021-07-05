@@ -1,6 +1,9 @@
 package array.medium;
 import java.util.*;
 
+/**
+ * 实现插入、删除、随机读取时间复杂度都为 O(1)
+ */
 public class InsertDeleteGetRandomO1_380 {
     public static void main(String[] args) {
         RandomizedSet randomizedSet = new RandomizedSet();

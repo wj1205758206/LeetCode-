@@ -1,8 +1,8 @@
 package slidingWindow.hard;
 
-import java.util.ArrayList;
+
 import java.util.LinkedList;
-import java.util.List;
+
 
 /**
  * 滑动窗口问题，求窗口内最大值
