@@ -13,7 +13,7 @@ public class SameTree_100 {
         q.right = new TreeNode(3);
 
         Solution solution = new Solution();
-        solution.isSameTree(p, q);
+        System.out.println(solution.isSameTree(p, q));
     }
 
     static class Solution {
