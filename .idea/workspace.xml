@@ -47,14 +47,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryTreePostorderTraversal_145.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BinaryTreePostorderTraversal_145.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tree/easy/BinaryTreePostorderTraversal_145.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+            <state relative-caret-position="132">
+              <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LowestCommonAncestorOfBST_235.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/tree/easy/LowestCommonAncestorOfBST_235.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -84,7 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/array/easy/TwoSum_167.java" />
         <option value="$PROJECT_DIR$/src/linkedList/easy/LinkedListCycle_141.java" />
         <option value="$PROJECT_DIR$/src/linkedList/easy/LinkedListCycle_142.java" />
         <option value="$PROJECT_DIR$/src/linkedList/easy/PalindromeLinkedList_234.java" />
@@ -135,6 +144,7 @@
         <option value="$PROJECT_DIR$/src/tree/easy/PathSum_112.java" />
         <option value="$PROJECT_DIR$/src/tree/easy/BinaryTreePreorderTraversal_144.java" />
         <option value="$PROJECT_DIR$/src/tree/easy/BinaryTreePostorderTraversal_145.java" />
+        <option value="$PROJECT_DIR$/src/tree/easy/LowestCommonAncestorOfBST_235.java" />
       </list>
     </option>
   </component>
@@ -236,7 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinaryTreePostorderTraversal_145">
+  <component name="RunManager" selected="Application.LowestCommonAncestorOfBST_235">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -282,14 +292,14 @@
       <module name="LeetCode-Note" />
       <envs />
     </configuration>
-    <configuration name="ConvertSortedArrayToBST_108" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LowestCommonAncestorOfBST_235" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="tree.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="tree.easy.ConvertSortedArrayToBST_108" />
+      <option name="MAIN_CLASS_NAME" value="tree.easy.LowestCommonAncestorOfBST_235" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -414,19 +424,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ConvertSortedArrayToBST_108" />
-      <item index="1" class="java.lang.String" itemvalue="Application.BalancedBinaryTree_110" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MinDepthOfBinaryTree_111" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PathSum_112" />
-      <item index="4" class="java.lang.String" itemvalue="Application.BinaryTreePostorderTraversal_145" />
+      <item index="0" class="java.lang.String" itemvalue="Application.BalancedBinaryTree_110" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MinDepthOfBinaryTree_111" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PathSum_112" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BinaryTreePostorderTraversal_145" />
+      <item index="4" class="java.lang.String" itemvalue="Application.LowestCommonAncestorOfBST_235" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.BinaryTreePostorderTraversal_145" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PathSum_112" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MinDepthOfBinaryTree_111" />
-        <item index="3" class="java.lang.String" itemvalue="Application.BalancedBinaryTree_110" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ConvertSortedArrayToBST_108" />
+        <item index="0" class="java.lang.String" itemvalue="Application.LowestCommonAncestorOfBST_235" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BinaryTreePostorderTraversal_145" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PathSum_112" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MinDepthOfBinaryTree_111" />
+        <item index="4" class="java.lang.String" itemvalue="Application.BalancedBinaryTree_110" />
       </list>
     </recent_temporary>
   </component>
@@ -458,7 +468,7 @@
       <workItem from="1625794881981" duration="8114000" />
       <workItem from="1626016495802" duration="12505000" />
       <workItem from="1626265227115" duration="3590000" />
-      <workItem from="1626361160663" duration="595000" />
+      <workItem from="1626361160663" duration="2913000" />
     </task>
     <task id="LOCAL-00001" summary="No.28 Implement strStr 添加新的解题方法">
       <created>1622197046545</created>
@@ -471,7 +481,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="285974000" />
+    <option name="totallyTimeSpent" value="288292000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -485,7 +495,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2912736" sideWeight="0.50402576" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2653302" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2653302" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957596" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2912736" sideWeight="0.49597424" order="13" side_tool="false" content_ui="tabs" />
@@ -497,7 +507,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2735849" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2735849" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -555,13 +565,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/linkedList/easy/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-176">
-          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/linkedList/easy/RemoveDuplicatesFromSortedList_83.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -915,11 +918,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tree/easy/BinaryTreePostorderTraversal_145.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+        <state relative-caret-position="132">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/easy/LowestCommonAncestorOfBST_235.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
