@@ -7,7 +7,9 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.PriorityQueue;
 
-
+/**
+ * 返回第 K 个大的元素
+ */
 public class KthLargestElementInStream_703 {
     public static void main(String[] args) {
         KthLargest kthLargest = new KthLargestElementInStream_703().new KthLargest(3, new int[]{1, 1});
