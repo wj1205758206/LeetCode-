@@ -15,28 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="LeafSimilarTrees_872.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tree/easy/LeafSimilarTrees_872.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="40" column="40" lean-forward="true" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringBuilder.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/src.zip!/java/lang/StringBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="407" column="5" lean-forward="true" selection-start-line="407" selection-start-column="5" selection-end-line="407" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="IncreasingOrderSearchTree_897.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tree/easy/IncreasingOrderSearchTree_897.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -75,11 +53,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CousinsInBinaryTree_993.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CousinsInBinaryTree_993.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tree/easy/CousinsInBinaryTree_993.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="37" column="23" lean-forward="true" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+            <state relative-caret-position="88">
+              <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SumOfRootToLeafBinaryNumbers_1022.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/tree/easy/SumOfRootToLeafBinaryNumbers_1022.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="48" column="38" lean-forward="true" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PathSum_112.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tree/easy/PathSum_112.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryTreePaths_257.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tree/easy/BinaryTreePaths_257.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-572">
+              <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SumOfLeftLeaves_404.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tree/easy/SumOfLeftLeaves_404.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -100,29 +120,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="364">
               <caret line="34" column="1" lean-forward="false" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Arrays.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/src.zip!/java/util/Arrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2222">
-              <caret line="143" column="28" lean-forward="false" selection-start-line="143" selection-start-column="28" selection-end-line="143" selection-end-column="28" />
-              <folding>
-                <element signature="e#5027#5028#0" expanded="true" />
-                <element signature="e#5098#5099#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DualPivotQuicksort.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/src.zip!/java/util/DualPivotQuicksort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1826">
-              <caret line="106" column="19" lean-forward="false" selection-start-line="106" selection-start-column="19" selection-end-line="106" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -153,7 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/stack/easy/ImplementStackUsingQueues_225.java" />
         <option value="$PROJECT_DIR$/src/linkedList/medium/DesignTwitter_355.java" />
         <option value="$PROJECT_DIR$/src/tree/easy/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/tree/easy/InvertBinaryTree_226.java" />
@@ -204,6 +200,7 @@
         <option value="$PROJECT_DIR$/src/tree/easy/RangeSumOfBST_938.java" />
         <option value="$PROJECT_DIR$/src/tree/easy/UnivaluedBinaryTree_965.java" />
         <option value="$PROJECT_DIR$/src/tree/easy/CousinsInBinaryTree_993.java" />
+        <option value="$PROJECT_DIR$/src/tree/easy/SumOfRootToLeafBinaryNumbers_1022.java" />
       </list>
     </option>
   </component>
@@ -306,7 +303,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CousinsInBinaryTree_993">
+  <component name="RunManager" selected="Application.SumOfRootToLeafBinaryNumbers_1022">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -352,14 +349,14 @@
       <module name="LeetCode-Note" />
       <envs />
     </configuration>
-    <configuration name="LeafSimilarTrees_872" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="RangeSumOfBST_938" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="tree.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="tree.easy.LeafSimilarTrees_872" />
+      <option name="MAIN_CLASS_NAME" value="tree.easy.RangeSumOfBST_938" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -371,14 +368,14 @@
       <module name="LeetCode-Note" />
       <envs />
     </configuration>
-    <configuration name="RangeSumOfBST_938" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SumOfRootToLeafBinaryNumbers_1022" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="tree.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="tree.easy.RangeSumOfBST_938" />
+      <option name="MAIN_CLASS_NAME" value="tree.easy.SumOfRootToLeafBinaryNumbers_1022" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -484,19 +481,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.LeafSimilarTrees_872" />
-      <item index="1" class="java.lang.String" itemvalue="Application.IncreasingOrderSearchTree_897" />
-      <item index="2" class="java.lang.String" itemvalue="Application.RangeSumOfBST_938" />
-      <item index="3" class="java.lang.String" itemvalue="Application.UnivaluedBinaryTree_965" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CousinsInBinaryTree_993" />
+      <item index="0" class="java.lang.String" itemvalue="Application.IncreasingOrderSearchTree_897" />
+      <item index="1" class="java.lang.String" itemvalue="Application.RangeSumOfBST_938" />
+      <item index="2" class="java.lang.String" itemvalue="Application.UnivaluedBinaryTree_965" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CousinsInBinaryTree_993" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SumOfRootToLeafBinaryNumbers_1022" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CousinsInBinaryTree_993" />
-        <item index="1" class="java.lang.String" itemvalue="Application.UnivaluedBinaryTree_965" />
-        <item index="2" class="java.lang.String" itemvalue="Application.RangeSumOfBST_938" />
-        <item index="3" class="java.lang.String" itemvalue="Application.IncreasingOrderSearchTree_897" />
-        <item index="4" class="java.lang.String" itemvalue="Application.LeafSimilarTrees_872" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SumOfRootToLeafBinaryNumbers_1022" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CousinsInBinaryTree_993" />
+        <item index="2" class="java.lang.String" itemvalue="Application.UnivaluedBinaryTree_965" />
+        <item index="3" class="java.lang.String" itemvalue="Application.RangeSumOfBST_938" />
+        <item index="4" class="java.lang.String" itemvalue="Application.IncreasingOrderSearchTree_897" />
       </list>
     </recent_temporary>
   </component>
@@ -532,7 +529,7 @@
       <workItem from="1626531040486" duration="4596000" />
       <workItem from="1626621848226" duration="36812000" />
       <workItem from="1626966007836" duration="19032000" />
-      <workItem from="1627135668033" duration="14565000" />
+      <workItem from="1627135668033" duration="20845000" />
     </task>
     <task id="LOCAL-00001" summary="No.28 Implement strStr 添加新的解题方法">
       <created>1622197046545</created>
@@ -545,7 +542,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="363667000" />
+    <option name="totallyTimeSpent" value="369947000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -561,7 +558,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32821724" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957596" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26415095" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26415095" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29009435" sideWeight="0.49597424" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -572,7 +569,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40968123" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4091981" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -624,18 +621,19 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="46" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tree/easy/SumOfRootToLeafBinaryNumbers_1022.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="47" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/tree/medium/InsertIntoBinarySearchTree_701.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="12298">
@@ -776,23 +774,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree/easy/BinaryTreePaths_257.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree/easy/SumOfLeftLeaves_404.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tree/easy/FindModeInBST_501.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -814,14 +795,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="836">
           <caret line="38" column="44" lean-forward="false" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree/easy/PathSum_112.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -964,8 +937,8 @@
         <state relative-caret-position="2222">
           <caret line="143" column="28" lean-forward="false" selection-start-line="143" selection-start-column="28" selection-end-line="143" selection-end-column="28" />
           <folding>
-            <element signature="e#5027#5028#0" expanded="true" />
-            <element signature="e#5098#5099#0" expanded="true" />
+            <element signature="e#5027#5028#0" expanded="false" />
+            <element signature="e#5098#5099#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -983,7 +956,7 @@
         <state relative-caret-position="122">
           <caret line="40" column="40" lean-forward="true" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1046,9 +1019,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tree/easy/CousinsInBinaryTree_993.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="37" column="23" lean-forward="true" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+        <state relative-caret-position="88">
+          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="29" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/easy/SumOfLeftLeaves_404.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/easy/PathSum_112.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/easy/BinaryTreePaths_257.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-572">
+          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/easy/SumOfRootToLeafBinaryNumbers_1022.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="48" column="38" lean-forward="true" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
