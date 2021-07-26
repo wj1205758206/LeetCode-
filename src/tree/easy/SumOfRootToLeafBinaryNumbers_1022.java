@@ -3,7 +3,9 @@ package tree.easy;
 import java.util.ArrayList;
 import java.util.List;
 
-
+/**
+ * 计算所有叶子节点二进制数之和
+ */
 public class SumOfRootToLeafBinaryNumbers_1022 {
     public static void main(String[] args) {
         TreeNode root = new TreeNode(1);
