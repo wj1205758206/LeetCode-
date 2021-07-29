@@ -15,13 +15,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="BinaryTreeRightSideView_199.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BinaryTreeRightSideView_199.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tree/medium/BinaryTreeRightSideView_199.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
-              <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CountCompleteTreeNodes_222.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/tree/medium/CountCompleteTreeNodes_222.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1544#1545#0" expanded="true" />
+                <element signature="e#1584#1585#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,7 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/tree/medium/FindDuplicateSubtrees_652.java" />
         <option value="$PROJECT_DIR$/src/tree/medium/KthSmallestElementBST_230.java" />
         <option value="$PROJECT_DIR$/src/tree/medium/ConvertBSTToGreaterTree_538.java" />
         <option value="$PROJECT_DIR$/src/tree/medium/ValidateBinarySearchTree_98.java" />
@@ -113,6 +126,7 @@
         <option value="$PROJECT_DIR$/src/tree/medium/SumRootToLeafNumbers_129.java" />
         <option value="$PROJECT_DIR$/src/tree/medium/BSTIterator_173.java" />
         <option value="$PROJECT_DIR$/src/tree/medium/BinaryTreeRightSideView_199.java" />
+        <option value="$PROJECT_DIR$/src/tree/medium/CountCompleteTreeNodes_222.java" />
       </list>
     </option>
   </component>
@@ -237,7 +251,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinaryTreeRightSideView_199">
+  <component name="RunManager" selected="Application.CountCompleteTreeNodes_222">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -283,14 +297,14 @@
       <module name="LeetCode-Note" />
       <envs />
     </configuration>
-    <configuration name="PathSum_II_113" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="CountCompleteTreeNodes_222" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="tree.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="tree.medium.PathSum_II_113" />
+      <option name="MAIN_CLASS_NAME" value="tree.medium.CountCompleteTreeNodes_222" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -415,19 +429,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.PathSum_II_113" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PopulatingNextRightPointersInEachNode_II_117" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SumRootToLeafNumbers_129" />
-      <item index="3" class="java.lang.String" itemvalue="Application.BSTIterator_173" />
-      <item index="4" class="java.lang.String" itemvalue="Application.BinaryTreeRightSideView_199" />
+      <item index="0" class="java.lang.String" itemvalue="Application.PopulatingNextRightPointersInEachNode_II_117" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SumRootToLeafNumbers_129" />
+      <item index="2" class="java.lang.String" itemvalue="Application.BSTIterator_173" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BinaryTreeRightSideView_199" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CountCompleteTreeNodes_222" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.BinaryTreeRightSideView_199" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BSTIterator_173" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SumRootToLeafNumbers_129" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PopulatingNextRightPointersInEachNode_II_117" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PathSum_II_113" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CountCompleteTreeNodes_222" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BinaryTreeRightSideView_199" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BSTIterator_173" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SumRootToLeafNumbers_129" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PopulatingNextRightPointersInEachNode_II_117" />
       </list>
     </recent_temporary>
   </component>
@@ -463,7 +477,7 @@
       <workItem from="1626531040486" duration="4596000" />
       <workItem from="1626621848226" duration="36812000" />
       <workItem from="1626966007836" duration="19032000" />
-      <workItem from="1627135668033" duration="62310000" />
+      <workItem from="1627135668033" duration="63182000" />
     </task>
     <task id="LOCAL-00001" summary="No.28 Implement strStr 添加新的解题方法">
       <created>1622197046545</created>
@@ -476,7 +490,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="411412000" />
+    <option name="totallyTimeSpent" value="412284000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -560,17 +574,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="615" column="55" lean-forward="true" selection-start-line="615" selection-start-column="55" selection-end-line="615" selection-end-column="55" />
-          <folding>
-            <element signature="e#121727#121728#0" expanded="false" />
-            <element signature="e#121769#121770#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tree/easy/SecondMinNodeInBinaryTree_671.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -1000,9 +1003,21 @@
     <entry file="file://$PROJECT_DIR$/src/tree/medium/BinaryTreeRightSideView_199.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/medium/CountCompleteTreeNodes_222.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1544#1545#0" expanded="true" />
+            <element signature="e#1584#1585#0" expanded="true" />
           </folding>
         </state>
       </provider>
