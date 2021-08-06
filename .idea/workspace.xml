@@ -38,11 +38,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MostFrequentSubtreeSum_508.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MostFrequentSubtreeSum_508.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tree/medium/MostFrequentSubtreeSum_508.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+            <state relative-caret-position="-484">
+              <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindBottomLeftTreeValue_513.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/tree/medium/FindBottomLeftTreeValue_513.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,7 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/tree/easy/BinaryTreeInorderTraversal_94.java" />
         <option value="$PROJECT_DIR$/src/tree/medium/RecoverBST_99.java" />
         <option value="$PROJECT_DIR$/src/tree/easy/SameTree_100.java" />
         <option value="$PROJECT_DIR$/src/tree/easy/SymmetricTree_101.java" />
@@ -156,6 +167,7 @@
         <option value="$PROJECT_DIR$/src/tree/medium/SerializeAndDeserializeBST_449.java" />
         <option value="$PROJECT_DIR$/src/tree/medium/DeleteNodeInBST_450.java" />
         <option value="$PROJECT_DIR$/src/tree/medium/MostFrequentSubtreeSum_508.java" />
+        <option value="$PROJECT_DIR$/src/tree/medium/FindBottomLeftTreeValue_513.java" />
       </list>
     </option>
   </component>
@@ -281,7 +293,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MostFrequentSubtreeSum_508">
+  <component name="RunManager" selected="Application.FindBottomLeftTreeValue_513">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -308,14 +320,14 @@
       <module name="LeetCode-Note" />
       <envs />
     </configuration>
-    <configuration name="HouseRobber_III_337" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="FindBottomLeftTreeValue_513" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="tree.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="tree.medium.HouseRobber_III_337" />
+      <option name="MAIN_CLASS_NAME" value="tree.medium.FindBottomLeftTreeValue_513" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -459,19 +471,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.HouseRobber_III_337" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PathSum_III_437" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SerializeAndDeserializeBST_449" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DeleteNodeInBST_450" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MostFrequentSubtreeSum_508" />
+      <item index="0" class="java.lang.String" itemvalue="Application.PathSum_III_437" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SerializeAndDeserializeBST_449" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DeleteNodeInBST_450" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MostFrequentSubtreeSum_508" />
+      <item index="4" class="java.lang.String" itemvalue="Application.FindBottomLeftTreeValue_513" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MostFrequentSubtreeSum_508" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DeleteNodeInBST_450" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SerializeAndDeserializeBST_449" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PathSum_III_437" />
-        <item index="4" class="java.lang.String" itemvalue="Application.HouseRobber_III_337" />
+        <item index="0" class="java.lang.String" itemvalue="Application.FindBottomLeftTreeValue_513" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MostFrequentSubtreeSum_508" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DeleteNodeInBST_450" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SerializeAndDeserializeBST_449" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PathSum_III_437" />
       </list>
     </recent_temporary>
   </component>
@@ -508,7 +520,7 @@
       <workItem from="1626621848226" duration="36812000" />
       <workItem from="1626966007836" duration="19032000" />
       <workItem from="1627135668033" duration="77286000" />
-      <workItem from="1628064719656" duration="24540000" />
+      <workItem from="1628064719656" duration="27096000" />
     </task>
     <task id="LOCAL-00001" summary="No.28 Implement strStr 添加新的解题方法">
       <created>1622197046545</created>
@@ -521,7 +533,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="450928000" />
+    <option name="totallyTimeSpent" value="453484000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -533,11 +545,11 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2912736" sideWeight="0.50402576" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26328218" sideWeight="0.50402576" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32821724" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957596" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26328218" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26328218" sideWeight="0.49597424" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28807557" sideWeight="0.49597424" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -605,14 +617,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/tree/easy/KthLargestElementInStream_703.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-881">
-          <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tree/easy/LeafSimilarTrees_872.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-45">
@@ -1039,8 +1043,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tree/medium/MostFrequentSubtreeSum_508.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        <state relative-caret-position="-484">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/medium/FindBottomLeftTreeValue_513.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
