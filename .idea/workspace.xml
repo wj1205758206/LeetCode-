@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/hashTable/hard/RandomPickWithBlacklist_710.java" description="        public int pick() {&#10;            int key;&#10; ..." line="45" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b23fad0-4682-4df6-98f3-3a0b5c4f9dc2" name="Default" comment="" />
+    <list default="true" id="1b23fad0-4682-4df6-98f3-3a0b5c4f9dc2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/tree/medium/PrintBinaryTree_655.java" afterPath="$PROJECT_DIR$/src/tree/medium/PrintBinaryTree_655.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,8 +30,8 @@
       <file leaf-file-name="PrintBinaryTree_655.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/tree/medium/PrintBinaryTree_655.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="679">
+              <caret line="120" column="0" lean-forward="true" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -473,7 +475,7 @@
       <workItem from="1626621848226" duration="36812000" />
       <workItem from="1626966007836" duration="19032000" />
       <workItem from="1627135668033" duration="77286000" />
-      <workItem from="1628064719656" duration="41018000" />
+      <workItem from="1628064719656" duration="41927000" />
     </task>
     <task id="LOCAL-00001" summary="No.28 Implement strStr 添加新的解题方法">
       <created>1622197046545</created>
@@ -486,7 +488,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="467406000" />
+    <option name="totallyTimeSpent" value="468315000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -1012,8 +1014,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tree/medium/PrintBinaryTree_655.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        <state relative-caret-position="679">
+          <caret line="120" column="0" lean-forward="true" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
           <folding />
         </state>
       </provider>
