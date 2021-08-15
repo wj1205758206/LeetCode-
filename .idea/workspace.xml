@@ -15,16 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="BinaryTreePruning_814.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tree/medium/BinaryTreePruning_814.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MinDistanceBetweenBSTNodes_783.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tree/easy/MinDistanceBetweenBSTNodes_783.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -77,14 +67,39 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Permutations_46.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Permutations_46.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backtrace/medium/Permutations_46.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="61" column="5" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="61" selection-end-column="5" />
+            <state relative-caret-position="132">
+              <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#706#715#0" expanded="true" />
+                <element signature="e#666#675#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NQueens_51.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/backtrace/hard/NQueens_51.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="86" column="31" lean-forward="true" selection-start-line="86" selection-start-column="31" selection-end-line="86" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/src.zip!/java/util/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="430" column="0" lean-forward="false" selection-start-line="430" selection-start-column="0" selection-end-line="430" selection-end-column="0" />
+              <folding>
+                <element signature="e#15414#15415#0" expanded="true" />
+                <element signature="e#15459#15460#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -105,16 +120,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="299">
               <caret line="51" column="30" lean-forward="false" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MinDepthOfBinaryTree_111.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tree/easy/MinDepthOfBinaryTree_111.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-220">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -145,7 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/tree/easy/MinAbsoluteDifferenceInBST_530.java" />
         <option value="$PROJECT_DIR$/src/tree/easy/DiameterOfBinaryTree_543.java" />
         <option value="$PROJECT_DIR$/src/tree/easy/BinaryTreeTilt_563.java" />
         <option value="$PROJECT_DIR$/src/tree/easy/SubtreeOfAnotherTree_572.java" />
@@ -196,6 +200,7 @@
         <option value="$PROJECT_DIR$/src/backtrace/easy/medium/hard/backtrace/medium/Test.java" />
         <option value="$PROJECT_DIR$/src/backtrace/easyb/Test.java" />
         <option value="$PROJECT_DIR$/src/backtrace/medium/Permutations_46.java" />
+        <option value="$PROJECT_DIR$/src/backtrace/hard/NQueens_51.java" />
       </list>
     </option>
   </component>
@@ -314,32 +319,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Permutations_46">
+  <component name="RunManager" selected="Application.NQueens_51">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
-    </configuration>
-    <configuration name="AllNodesDistanceKBinaryTree_863" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="tree.medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="tree.medium.AllNodesDistanceKBinaryTree_863" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LeetCode-Note" />
-      <envs />
     </configuration>
     <configuration name="AllPossibleFullBinaryTrees_894" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -368,6 +354,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="tree.medium.ConstructBinaryTreeFromPreorderAndPostorderTraversal_889" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode-Note" />
+      <envs />
+    </configuration>
+    <configuration name="NQueens_51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="backtrace.hard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="backtrace.hard.NQueens_51" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -492,19 +497,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.AllNodesDistanceKBinaryTree_863" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SmallestSubtreeWithAllTheDeepestNodes_865" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ConstructBinaryTreeFromPreorderAndPostorderTraversal_889" />
-      <item index="3" class="java.lang.String" itemvalue="Application.AllPossibleFullBinaryTrees_894" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Permutations_46" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SmallestSubtreeWithAllTheDeepestNodes_865" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ConstructBinaryTreeFromPreorderAndPostorderTraversal_889" />
+      <item index="2" class="java.lang.String" itemvalue="Application.AllPossibleFullBinaryTrees_894" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Permutations_46" />
+      <item index="4" class="java.lang.String" itemvalue="Application.NQueens_51" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Permutations_46" />
-        <item index="1" class="java.lang.String" itemvalue="Application.AllPossibleFullBinaryTrees_894" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ConstructBinaryTreeFromPreorderAndPostorderTraversal_889" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SmallestSubtreeWithAllTheDeepestNodes_865" />
-        <item index="4" class="java.lang.String" itemvalue="Application.AllNodesDistanceKBinaryTree_863" />
+        <item index="0" class="java.lang.String" itemvalue="Application.NQueens_51" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Permutations_46" />
+        <item index="2" class="java.lang.String" itemvalue="Application.AllPossibleFullBinaryTrees_894" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ConstructBinaryTreeFromPreorderAndPostorderTraversal_889" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SmallestSubtreeWithAllTheDeepestNodes_865" />
       </list>
     </recent_temporary>
   </component>
@@ -541,7 +546,7 @@
       <workItem from="1626621848226" duration="36812000" />
       <workItem from="1626966007836" duration="19032000" />
       <workItem from="1627135668033" duration="77286000" />
-      <workItem from="1628064719656" duration="98232000" />
+      <workItem from="1628064719656" duration="109995000" />
     </task>
     <task id="LOCAL-00001" summary="No.28 Implement strStr 添加新的解题方法">
       <created>1622197046545</created>
@@ -554,7 +559,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="524620000" />
+    <option name="totallyTimeSpent" value="536383000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -570,8 +575,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32821724" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957596" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26328218" sideWeight="0.49597424" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28807557" sideWeight="0.49597424" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26328218" sideWeight="0.49597424" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28807557" sideWeight="0.49597424" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25925925" sideWeight="0.8818737" order="0" side_tool="false" content_ui="combo" />
@@ -633,18 +638,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="52" />
+      <option name="time" value="56" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/linkedList/medium/ReverseLinkedList_92.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1182">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/linkedList/medium/RemoveNthNodeFromEndOfList_19.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-484">
@@ -672,14 +670,6 @@
             <element signature="e#1936#1937#0" expanded="false" />
             <element signature="e#1974#1975#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="175" column="11" lean-forward="false" selection-start-line="175" selection-start-column="11" selection-end-line="175" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1080,11 +1070,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/backtrace/medium/Permutations_46.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="61" column="5" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="61" selection-end-column="5" />
+        <state relative-caret-position="132">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#706#715#0" expanded="true" />
+            <element signature="e#666#675#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="430" column="0" lean-forward="false" selection-start-line="430" selection-start-column="0" selection-end-line="430" selection-end-column="0" />
+          <folding>
+            <element signature="e#15414#15415#0" expanded="true" />
+            <element signature="e#15459#15460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtrace/hard/NQueens_51.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="86" column="31" lean-forward="true" selection-start-line="86" selection-start-column="31" selection-end-line="86" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
