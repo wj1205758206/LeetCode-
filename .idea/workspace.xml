@@ -45,12 +45,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SudokuSolver_37.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SudokuSolver_37.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backtrace/hard/SudokuSolver_37.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+            <state relative-caret-position="352">
+              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenerateParentheses_22.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/backtrace/medium/GenerateParentheses_22.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="41" column="14" lean-forward="false" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -93,7 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/tree/easy/MergeTwoBinaryTrees_617.java" />
         <option value="$PROJECT_DIR$/src/tree/easy/AverageOfLevelsInBinaryTree_637.java" />
         <option value="$PROJECT_DIR$/src/tree/easy/TwoSum_IV_Input_BST_653.java" />
         <option value="$PROJECT_DIR$/src/tree/easy/SecondMinNodeInBinaryTree_671.java" />
@@ -144,6 +155,7 @@
         <option value="$PROJECT_DIR$/src/backtrace/medium/Subsets_78.java" />
         <option value="$PROJECT_DIR$/src/backtrace/medium/Combinations_77.java" />
         <option value="$PROJECT_DIR$/src/backtrace/hard/SudokuSolver_37.java" />
+        <option value="$PROJECT_DIR$/src/backtrace/medium/GenerateParentheses_22.java" />
       </list>
     </option>
   </component>
@@ -228,13 +240,6 @@
               <item name="LeetCode-Note" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="backtrace" type="462c0819:PsiDirectoryNode" />
-              <item name="hard" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Note" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="backtrace" type="462c0819:PsiDirectoryNode" />
               <item name="medium" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -276,7 +281,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SudokuSolver_37">
+  <component name="RunManager" selected="Application.GenerateParentheses_22">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -303,14 +308,14 @@
       <module name="LeetCode-Note" />
       <envs />
     </configuration>
-    <configuration name="NQueens_51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="GenerateParentheses_22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="backtrace.hard.*" />
+          <option name="PATTERN" value="backtrace.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="backtrace.hard.NQueens_51" />
+      <option name="MAIN_CLASS_NAME" value="backtrace.medium.GenerateParentheses_22" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -454,19 +459,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.NQueens_51" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PartitionToKEqualSumSubsets_698" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Subsets_78" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Combinations_77" />
-      <item index="4" class="java.lang.String" itemvalue="Application.SudokuSolver_37" />
+      <item index="0" class="java.lang.String" itemvalue="Application.PartitionToKEqualSumSubsets_698" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Subsets_78" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Combinations_77" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SudokuSolver_37" />
+      <item index="4" class="java.lang.String" itemvalue="Application.GenerateParentheses_22" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SudokuSolver_37" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Combinations_77" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Subsets_78" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PartitionToKEqualSumSubsets_698" />
-        <item index="4" class="java.lang.String" itemvalue="Application.NQueens_51" />
+        <item index="0" class="java.lang.String" itemvalue="Application.GenerateParentheses_22" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SudokuSolver_37" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Combinations_77" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Subsets_78" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PartitionToKEqualSumSubsets_698" />
       </list>
     </recent_temporary>
   </component>
@@ -503,7 +508,7 @@
       <workItem from="1626621848226" duration="36812000" />
       <workItem from="1626966007836" duration="19032000" />
       <workItem from="1627135668033" duration="77286000" />
-      <workItem from="1628064719656" duration="129874000" />
+      <workItem from="1628064719656" duration="132757000" />
     </task>
     <task id="LOCAL-00001" summary="No.28 Implement strStr 添加新的解题方法">
       <created>1622197046545</created>
@@ -516,7 +521,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="556262000" />
+    <option name="totallyTimeSpent" value="559145000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -532,9 +537,9 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32821724" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957596" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2585596" sideWeight="0.49597424" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2585596" sideWeight="0.49597424" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957596" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28807557" sideWeight="0.49597424" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28807557" sideWeight="0.49597424" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25925925" sideWeight="0.8818737" order="0" side_tool="false" content_ui="combo" />
@@ -601,18 +606,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/tree/medium/PopulatingNextRightPointersInEachNode_II_117.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1865#1866#0" expanded="false" />
-            <element signature="e#1899#1900#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tree/medium/BinaryTreeZigzagLevelOrderTraversal_103.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -1050,9 +1043,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/backtrace/hard/SudokuSolver_37.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        <state relative-caret-position="352">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtrace/medium/GenerateParentheses_22.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="41" column="14" lean-forward="false" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
