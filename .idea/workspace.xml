@@ -5,7 +5,9 @@
     <bookmark url="file://$PROJECT_DIR$/../JUC/src/blockqueue/ShareData.java" description="public class ShareData {&#10;}&#10;" line="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b23fad0-4682-4df6-98f3-3a0b5c4f9dc2" name="Default" comment="" />
+    <list default="true" id="1b23fad0-4682-4df6-98f3-3a0b5c4f9dc2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/dp/easy/MaxSubarray_53.java" afterPath="$PROJECT_DIR$/src/dp/easy/MaxSubarray_53.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,63 +23,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="MinFallingPathSum_931.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dp/medium/MinFallingPathSum_931.java">
+      <file leaf-file-name="MaxSubarray_53.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/dp/easy/MaxSubarray_53.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="330">
+              <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TargetSum_494.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dp/medium/TargetSum_494.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1490#1491#0" expanded="true" />
-                <element signature="e#1544#1545#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EditDistance_72.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dp/hard/EditDistance_72.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="69" column="83" lean-forward="true" selection-start-line="69" selection-start-column="83" selection-end-line="69" selection-end-column="83" />
-              <folding>
-                <element signature="e#1553#1554#0" expanded="true" />
-                <element signature="e#1611#1612#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongestIncreasingSubsequence_300.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dp/medium/LongestIncreasingSubsequence_300.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="51" column="9" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="51" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RussianDollEnvelopes_354.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/dp/hard/RussianDollEnvelopes_354.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#656#657#0" expanded="true" />
-                <element signature="e#749#750#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -152,12 +103,12 @@
         <option value="$PROJECT_DIR$/src/backtrace/medium/MatchsticksToSquare_473.java" />
         <option value="$PROJECT_DIR$/src/dp/easy/FibonacciNumber_509.java" />
         <option value="$PROJECT_DIR$/src/dp/medium/CoinChange_322.java" />
-        <option value="$PROJECT_DIR$/src/dp/easy/MaxSubarray_53.java" />
         <option value="$PROJECT_DIR$/src/dp/medium/MinFallingPathSum_931.java" />
         <option value="$PROJECT_DIR$/src/dp/medium/TargetSum_494.java" />
         <option value="$PROJECT_DIR$/src/dp/hard/EditDistance_72.java" />
         <option value="$PROJECT_DIR$/src/dp/medium/LongestIncreasingSubsequence_300.java" />
         <option value="$PROJECT_DIR$/src/dp/hard/RussianDollEnvelopes_354.java" />
+        <option value="$PROJECT_DIR$/src/dp/easy/MaxSubarray_53.java" />
       </list>
     </option>
   </component>
@@ -242,6 +193,13 @@
               <item name="LeetCode-Note" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Note" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
               <item name="hard" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -290,7 +248,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RussianDollEnvelopes_354">
+  <component name="RunManager" selected="Application.MaxSubarray_53">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -336,14 +294,14 @@
       <module name="LeetCode-Note" />
       <envs />
     </configuration>
-    <configuration name="MinFallingPathSum_931" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MaxSubarray_53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="dp.medium.*" />
+          <option name="PATTERN" value="dp.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="dp.medium.MinFallingPathSum_931" />
+      <option name="MAIN_CLASS_NAME" value="dp.easy.MaxSubarray_53" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -468,19 +426,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.MinFallingPathSum_931" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TargetSum_494" />
-      <item index="2" class="java.lang.String" itemvalue="Application.EditDistance_72" />
-      <item index="3" class="java.lang.String" itemvalue="Application.LongestIncreasingSubsequence_300" />
-      <item index="4" class="java.lang.String" itemvalue="Application.RussianDollEnvelopes_354" />
+      <item index="0" class="java.lang.String" itemvalue="Application.TargetSum_494" />
+      <item index="1" class="java.lang.String" itemvalue="Application.EditDistance_72" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LongestIncreasingSubsequence_300" />
+      <item index="3" class="java.lang.String" itemvalue="Application.RussianDollEnvelopes_354" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MaxSubarray_53" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.RussianDollEnvelopes_354" />
-        <item index="1" class="java.lang.String" itemvalue="Application.LongestIncreasingSubsequence_300" />
-        <item index="2" class="java.lang.String" itemvalue="Application.EditDistance_72" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TargetSum_494" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MinFallingPathSum_931" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MaxSubarray_53" />
+        <item index="1" class="java.lang.String" itemvalue="Application.RussianDollEnvelopes_354" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LongestIncreasingSubsequence_300" />
+        <item index="3" class="java.lang.String" itemvalue="Application.EditDistance_72" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TargetSum_494" />
       </list>
     </recent_temporary>
   </component>
@@ -517,7 +475,7 @@
       <workItem from="1626621848226" duration="36812000" />
       <workItem from="1626966007836" duration="19032000" />
       <workItem from="1627135668033" duration="77286000" />
-      <workItem from="1628064719656" duration="248458000" />
+      <workItem from="1628064719656" duration="250035000" />
     </task>
     <task id="LOCAL-00001" summary="No.28 Implement strStr 添加新的解题方法">
       <created>1622197046545</created>
@@ -530,7 +488,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="674846000" />
+    <option name="totallyTimeSpent" value="676423000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -546,9 +504,9 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32821724" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957596" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25619835" sideWeight="0.49597424" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25619835" sideWeight="0.49597424" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957596" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28807557" sideWeight="0.49597424" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28807557" sideWeight="0.49597424" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25925925" sideWeight="0.8818737" order="0" side_tool="false" content_ui="combo" />
@@ -1012,14 +970,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dp/easy/MaxSubarray_53.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/dp/medium/MinFallingPathSum_931.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -1062,12 +1012,20 @@
     <entry file="file://$PROJECT_DIR$/src/dp/hard/RussianDollEnvelopes_354.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
-            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dp/easy/MaxSubarray_53.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
