@@ -41,11 +41,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CheapestFlightsWithinKStops_787.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CheapestFlightsWithinKStops_787.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/dp/medium/CheapestFlightsWithinKStops_787.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="694">
-              <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+            <state relative-caret-position="352">
+              <caret line="16" column="76" lean-forward="true" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegularExpressionMatching_10.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/dp/hard/RegularExpressionMatching_10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,7 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/tree/medium/AllNodesDistanceKBinaryTree_863.java" />
         <option value="$PROJECT_DIR$/src/tree/medium/SmallestSubtreeWithAllTheDeepestNodes_865.java" />
         <option value="$PROJECT_DIR$/src/tree/medium/ConstructBinaryTreeFromPreorderAndPostorderTraversal_889.java" />
         <option value="$PROJECT_DIR$/src/tree/medium/AllPossibleFullBinaryTrees_894.java" />
@@ -133,6 +142,7 @@
         <option value="$PROJECT_DIR$/src/dp/hard/DungeonGame_174.java" />
         <option value="$PROJECT_DIR$/src/dp/hard/FreedomTrail_514.java" />
         <option value="$PROJECT_DIR$/src/dp/medium/CheapestFlightsWithinKStops_787.java" />
+        <option value="$PROJECT_DIR$/src/dp/hard/RegularExpressionMatching_10.java" />
       </list>
     </option>
   </component>
@@ -265,7 +275,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CheapestFlightsWithinKStops_787">
+  <component name="RunManager" selected="Application.RegularExpressionMatching_10">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -330,14 +340,14 @@
       <module name="LeetCode-Note" />
       <envs />
     </configuration>
-    <configuration name="GasStation_134" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MinPathSum_64" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="greedy.medium.*" />
+          <option name="PATTERN" value="dp.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="greedy.medium.GasStation_134" />
+      <option name="MAIN_CLASS_NAME" value="dp.medium.MinPathSum_64" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -349,14 +359,14 @@
       <module name="LeetCode-Note" />
       <envs />
     </configuration>
-    <configuration name="MinPathSum_64" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="RegularExpressionMatching_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="dp.medium.*" />
+          <option name="PATTERN" value="dp.hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="dp.medium.MinPathSum_64" />
+      <option name="MAIN_CLASS_NAME" value="dp.hard.RegularExpressionMatching_10" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -443,19 +453,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.GasStation_134" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MinPathSum_64" />
-      <item index="2" class="java.lang.String" itemvalue="Application.DungeonGame_174" />
-      <item index="3" class="java.lang.String" itemvalue="Application.FreedomTrail_514" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CheapestFlightsWithinKStops_787" />
+      <item index="0" class="java.lang.String" itemvalue="Application.MinPathSum_64" />
+      <item index="1" class="java.lang.String" itemvalue="Application.DungeonGame_174" />
+      <item index="2" class="java.lang.String" itemvalue="Application.FreedomTrail_514" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CheapestFlightsWithinKStops_787" />
+      <item index="4" class="java.lang.String" itemvalue="Application.RegularExpressionMatching_10" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CheapestFlightsWithinKStops_787" />
-        <item index="1" class="java.lang.String" itemvalue="Application.FreedomTrail_514" />
-        <item index="2" class="java.lang.String" itemvalue="Application.DungeonGame_174" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MinPathSum_64" />
-        <item index="4" class="java.lang.String" itemvalue="Application.GasStation_134" />
+        <item index="0" class="java.lang.String" itemvalue="Application.RegularExpressionMatching_10" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CheapestFlightsWithinKStops_787" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FreedomTrail_514" />
+        <item index="3" class="java.lang.String" itemvalue="Application.DungeonGame_174" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MinPathSum_64" />
       </list>
     </recent_temporary>
   </component>
@@ -492,7 +502,7 @@
       <workItem from="1626621848226" duration="36812000" />
       <workItem from="1626966007836" duration="19032000" />
       <workItem from="1627135668033" duration="77286000" />
-      <workItem from="1628064719656" duration="351017000" />
+      <workItem from="1628064719656" duration="356015000" />
     </task>
     <task id="LOCAL-00001" summary="No.28 Implement strStr 添加新的解题方法">
       <created>1622197046545</created>
@@ -505,7 +515,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="777405000" />
+    <option name="totallyTimeSpent" value="782403000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -594,14 +604,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/backtrace/medium/CountNumbersWithUniqueDigits_357.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/backtrace/medium/MatchsticksToSquare_473.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
@@ -1071,8 +1073,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dp/medium/CheapestFlightsWithinKStops_787.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="694">
-          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        <state relative-caret-position="352">
+          <caret line="16" column="76" lean-forward="true" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dp/hard/RegularExpressionMatching_10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
