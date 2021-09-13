@@ -6,7 +6,7 @@ package codingoffer;
 public class CuttingRope_14 {
     public static void main(String[] args) {
         Solution solution = new CuttingRope_14().new Solution();
-        System.out.println(solution.cuttingRope(8));
+        System.out.println(solution.cuttingRope2(120));
     }
 
     class Solution {
@@ -28,6 +28,30 @@ public class CuttingRope_14 {
                 }
             }
             return dp[n];
+        }
+
+        /**
+         * 贪心算法，每次不去计算出所有选择，直接选长度为3的进行剪段
+         *
+         * @param n
+         * @return
+         */
+        public int cuttingRope2(int n) {
+            /*n>=5时，尽可能选择出长度为3的
+             * n<5时：
+             *      n == 4  2*2最大
+             *      n == 3  1*2最大
+             *      n == 2  1*1最大*/
+            if (n < 4)
+                return n - 1;
+
+            long res = 1;
+            while (n > 4) {
+                res = res * 3 % 1000000007;
+                n -= 3;
+            }
+            //大于等于5时不断剪裁长度为3的绳子，剩下的n就是长度不足5
+            return (int) (res * n % 1000000007);
         }
     }
 }
