@@ -21,130 +21,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Fibonacci_10.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codingoffer/Fibonacci_10.java">
+      <file leaf-file-name="StringPathInMatrix_12.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/codingoffer/StringPathInMatrix_12.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FrogJump_10.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codingoffer/FrogJump_10.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SnmpMibNode.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/src.zip!/com/sun/jmx/snmp/agent/SnmpMibNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="296" column="54" lean-forward="true" selection-start-line="296" selection-start-column="54" selection-end-line="296" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReentrantLock.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="145" column="9" lean-forward="true" selection-start-line="145" selection-start-column="9" selection-end-line="145" selection-end-column="9" />
+            <state relative-caret-position="66">
+              <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
               <folding>
-                <element signature="docComment;method#readObject#0;class#Sync#0;class#ReentrantLock#0" expanded="false" />
-                <element signature="method#readObject#0;class#Sync#0;class#ReentrantLock#0" expanded="false" />
-                <element signature="docComment;class#NonfairSync#0;class#ReentrantLock#0" expanded="false" />
-                <element signature="class#NonfairSync#0;class#ReentrantLock#0" expanded="false" />
-                <element signature="docComment;class#FairSync#0;class#ReentrantLock#0" expanded="false" />
-                <element signature="class#FairSync#0;class#ReentrantLock#0" expanded="false" />
-                <element signature="docComment;method#ReentrantLock#0;class#ReentrantLock#0" expanded="false" />
-                <element signature="docComment;method#ReentrantLock#1;class#ReentrantLock#0" expanded="false" />
-                <element signature="docComment;method#lock#0;class#ReentrantLock#0" expanded="false" />
-                <element signature="docComment;method#lockInterruptibly#0;class#ReentrantLock#0" expanded="false" />
-                <element signature="docComment;method#tryLock#0;class#ReentrantLock#0" expanded="false" />
-                <element signature="docComment;method#tryLock#1;class#ReentrantLock#0" expanded="false" />
-                <element signature="docComment;method#unlock#0;class#ReentrantLock#0" expanded="false" />
-                <element signature="docComment;method#newCondition#0;class#ReentrantLock#0" expanded="false" />
-                <element signature="docComment;method#getHoldCount#0;class#ReentrantLock#0" expanded="false" />
-                <element signature="docComment;method#isHeldByCurrentThread#0;class#ReentrantLock#0" expanded="false" />
+                <element signature="e#1863#1864#0" expanded="true" />
+                <element signature="e#1934#1935#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AbstractQueuedSynchronizer.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <file leaf-file-name="WordSearch_79.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backtrace/medium/WordSearch_79.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="532" column="25" lean-forward="false" selection-start-line="532" selection-start-column="25" selection-end-line="532" selection-end-column="25" />
+            <state relative-caret-position="-792">
+              <caret line="9" column="38" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="9" selection-end-column="38" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MinNumberInRotatedArray_11.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/codingoffer/MinNumberInRotatedArray_11.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JAVA/java.util.concurrent.locks.ReentrantLock.Sync" pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/java.util.concurrent.locks.ReentrantLock.Sync">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>java.util.concurrent.locks.ReentrantLock.Sync</OriginalElement>
-              <nodes>
-                <node x="78.5" y="170.0">java.util.concurrent.locks.AbstractQueuedSynchronizer</node>
-                <node x="168.5" y="255.0">java.util.concurrent.locks.ReentrantLock.Sync</node>
-                <node x="0.0" y="85.0">java.util.concurrent.locks.AbstractOwnableSynchronizer</node>
-                <node x="144.5" y="0.0">java.io.Serializable</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="java.util.concurrent.locks.ReentrantLock.Sync" target="java.util.concurrent.locks.AbstractQueuedSynchronizer">
-                  <point x="0.0" y="-17.5" />
-                  <point x="0.0" y="17.5" />
-                </edge>
-                <edge source="java.util.concurrent.locks.AbstractQueuedSynchronizer" target="java.util.concurrent.locks.AbstractOwnableSynchronizer">
-                  <point x="-68.75" y="-17.5" />
-                  <point x="147.25" y="145.0" />
-                  <point x="140.5" y="145.0" />
-                  <point x="0.0" y="17.5" />
-                </edge>
-                <edge source="java.util.concurrent.locks.AbstractQueuedSynchronizer" target="java.io.Serializable">
-                  <point x="68.75" y="-17.5" />
-                  <point x="284.75" y="145.0" />
-                  <point x="291.5" y="145.0" />
-                  <point x="291.5" y="60.0" />
-                  <point x="251.75" y="60.0" />
-                  <point x="35.75" y="17.5" />
-                </edge>
-                <edge source="java.util.concurrent.locks.AbstractOwnableSynchronizer" target="java.io.Serializable">
-                  <point x="0.0" y="-17.5" />
-                  <point x="140.5" y="60.0" />
-                  <point x="180.25" y="60.0" />
-                  <point x="-35.75" y="17.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="-310.0" y="114.5" />
-              <SelectedNodes>
-                <node>java.util.concurrent.locks.ReentrantLock.Sync</node>
-                <node>java.io.Serializable</node>
-              </SelectedNodes>
-              <Categories />
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
             </state>
           </provider>
         </entry>
@@ -178,8 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/backtrace/medium/CombinationSum_II_40.java" />
-        <option value="$PROJECT_DIR$/src/backtrace/medium/WordSearch_79.java" />
         <option value="$PROJECT_DIR$/src/backtrace/medium/GrayCode_89.java" />
         <option value="$PROJECT_DIR$/src/backtrace/medium/Subsets_II_90.java" />
         <option value="$PROJECT_DIR$/src/backtrace/medium/RestoreIPAddresses_93.java" />
@@ -229,6 +122,8 @@
         <option value="$PROJECT_DIR$/src/codingoffer/Fibonacci_10.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/FrogJump_10.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/MinNumberInRotatedArray_11.java" />
+        <option value="$PROJECT_DIR$/src/backtrace/medium/WordSearch_79.java" />
+        <option value="$PROJECT_DIR$/src/codingoffer/StringPathInMatrix_12.java" />
       </list>
     </option>
   </component>
@@ -306,6 +201,19 @@
               <item name="LeetCode-Note" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Note" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="backtrace" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Note" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="backtrace" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Note" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="codingoffer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -367,7 +275,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinNumberInRotatedArray_11">
+  <component name="RunManager" selected="Application.StringPathInMatrix_12">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -451,14 +359,14 @@
       <module name="LeetCode-Note" />
       <envs />
     </configuration>
-    <configuration name="QueueWithTwoStacks_09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="StringPathInMatrix_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="codingoffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="codingoffer.QueueWithTwoStacks_09" />
+      <option name="MAIN_CLASS_NAME" value="codingoffer.StringPathInMatrix_12" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -545,19 +453,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.QueueWithTwoStacks_09" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Fibonacci_10" />
-      <item index="2" class="java.lang.String" itemvalue="Application.FibonacciNumber_509" />
-      <item index="3" class="java.lang.String" itemvalue="Application.FrogJump_10" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MinNumberInRotatedArray_11" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Fibonacci_10" />
+      <item index="1" class="java.lang.String" itemvalue="Application.FibonacciNumber_509" />
+      <item index="2" class="java.lang.String" itemvalue="Application.FrogJump_10" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MinNumberInRotatedArray_11" />
+      <item index="4" class="java.lang.String" itemvalue="Application.StringPathInMatrix_12" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MinNumberInRotatedArray_11" />
-        <item index="1" class="java.lang.String" itemvalue="Application.FrogJump_10" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Fibonacci_10" />
-        <item index="3" class="java.lang.String" itemvalue="Application.FibonacciNumber_509" />
-        <item index="4" class="java.lang.String" itemvalue="Application.QueueWithTwoStacks_09" />
+        <item index="0" class="java.lang.String" itemvalue="Application.StringPathInMatrix_12" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MinNumberInRotatedArray_11" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FrogJump_10" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Fibonacci_10" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FibonacciNumber_509" />
       </list>
     </recent_temporary>
   </component>
@@ -595,7 +503,7 @@
       <workItem from="1626966007836" duration="19032000" />
       <workItem from="1627135668033" duration="77286000" />
       <workItem from="1628064719656" duration="386395000" />
-      <workItem from="1631356336771" duration="19761000" />
+      <workItem from="1631356336771" duration="24241000" />
     </task>
     <task id="LOCAL-00001" summary="No.28 Implement strStr 添加新的解题方法">
       <created>1622197046545</created>
@@ -608,7 +516,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="832544000" />
+    <option name="totallyTimeSpent" value="837024000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -697,20 +605,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="249" column="6" lean-forward="true" selection-start-line="249" selection-start-column="6" selection-end-line="249" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/src.zip!/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="160" column="23" lean-forward="true" selection-start-line="160" selection-start-column="23" selection-end-line="160" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/src.zip!/java/util/LinkedHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
@@ -1135,7 +1029,7 @@
               <point x="-35.75" y="17.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-310.0" y="114.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="177.0" y="145.0" />
           <SelectedNodes>
             <node>java.util.concurrent.locks.ReentrantLock.Sync</node>
             <node>java.io.Serializable</node>
@@ -1146,20 +1040,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/codingoffer/MinNumberInRotatedArray_11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="145" column="9" lean-forward="true" selection-start-line="145" selection-start-column="9" selection-end-line="145" selection-end-column="9" />
+        <state relative-caret-position="195">
+          <caret line="223" column="17" lean-forward="true" selection-start-line="223" selection-start-column="17" selection-end-line="223" selection-end-column="17" />
           <folding>
             <element signature="docComment;method#readObject#0;class#Sync#0;class#ReentrantLock#0" expanded="false" />
             <element signature="method#readObject#0;class#Sync#0;class#ReentrantLock#0" expanded="false" />
             <element signature="docComment;class#NonfairSync#0;class#ReentrantLock#0" expanded="false" />
             <element signature="class#NonfairSync#0;class#ReentrantLock#0" expanded="false" />
             <element signature="docComment;class#FairSync#0;class#ReentrantLock#0" expanded="false" />
-            <element signature="class#FairSync#0;class#ReentrantLock#0" expanded="false" />
+            <element signature="e#7116#7117#0" expanded="false" />
+            <element signature="e#7150#7151#0" expanded="false" />
             <element signature="docComment;method#ReentrantLock#0;class#ReentrantLock#0" expanded="false" />
             <element signature="docComment;method#ReentrantLock#1;class#ReentrantLock#0" expanded="false" />
             <element signature="docComment;method#lock#0;class#ReentrantLock#0" expanded="false" />
+            <element signature="e#9117#9118#0" expanded="false" />
+            <element signature="e#9144#9145#0" expanded="false" />
             <element signature="docComment;method#lockInterruptibly#0;class#ReentrantLock#0" expanded="false" />
             <element signature="docComment;method#tryLock#0;class#ReentrantLock#0" expanded="false" />
             <element signature="docComment;method#tryLock#1;class#ReentrantLock#0" expanded="false" />
@@ -1173,17 +1078,31 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="532" column="25" lean-forward="false" selection-start-line="532" selection-start-column="25" selection-end-line="532" selection-end-column="25" />
+        <state relative-caret-position="173">
+          <caret line="1847" column="21" lean-forward="false" selection-start-line="1847" selection-start-column="21" selection-end-line="1847" selection-end-column="21" />
+          <folding>
+            <element signature="e#41392#41393#0" expanded="false" />
+            <element signature="e#41449#41450#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtrace/medium/WordSearch_79.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-792">
+          <caret line="9" column="38" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="9" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/codingoffer/MinNumberInRotatedArray_11.java">
+    <entry file="file://$PROJECT_DIR$/src/codingoffer/StringPathInMatrix_12.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="66">
+          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding>
+            <element signature="e#1863#1864#0" expanded="true" />
+            <element signature="e#1934#1935#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
