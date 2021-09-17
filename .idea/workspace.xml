@@ -21,15 +21,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="MirrorOfBinaryTree_27.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MirrorOfBinaryTree_27.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codingoffer/MirrorOfBinaryTree_27.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="352">
+              <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
               <folding>
                 <element signature="e#680#681#0" expanded="true" />
                 <element signature="e#711#712#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SymmetricalBinaryTree_28.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/codingoffer/SymmetricalBinaryTree_28.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+              <folding>
+                <element signature="e#1874#1875#0" expanded="true" />
+                <element signature="e#1905#1906#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SubStructureInTree_26.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/codingoffer/SubStructureInTree_26.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="814">
+              <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="54" selection-end-column="5" />
+              <folding>
+                <element signature="e#1544#1545#0" expanded="true" />
+                <element signature="e#1575#1576#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SubtreeOfAnotherTree_572.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tree/easy/SubtreeOfAnotherTree_572.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="37" column="6" lean-forward="true" selection-start-line="37" selection-start-column="6" selection-end-line="44" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SymmetricTree_101.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tree/easy/SymmetricTree_101.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="42" column="23" lean-forward="false" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -63,7 +109,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/dp/hard/RussianDollEnvelopes_354.java" />
         <option value="$PROJECT_DIR$/src/dp/easy/MaxSubarray_53.java" />
         <option value="$PROJECT_DIR$/src/dp/medium/LongestCommonSubsequence_1143.java" />
         <option value="$PROJECT_DIR$/src/dp/medium/DeleteOperationForTwoStrings_583.java" />
@@ -114,6 +159,7 @@
         <option value="$PROJECT_DIR$/src/codingoffer/MergeSortedLists_25.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/SubStructureInTree_26.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/MirrorOfBinaryTree_27.java" />
+        <option value="$PROJECT_DIR$/src/codingoffer/SymmetricalBinaryTree_28.java" />
       </list>
     </option>
   </component>
@@ -234,7 +280,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="SearchEverywhereHistoryKey" value="Subtr&#9;FILE&#9;file://D:/Java/workspace_idea/LeetCode-Note/src/tree/easy/SubtreeOfAnotherTree_572.java&#10;Subtree&#9;PSI&#9;JAVA://tree.medium.FindDuplicateSubtrees_652&#10;Sub&#9;PSI&#9;JAVA://tree.easy.SubtreeOfAnotherTree_572&#10;Reverse&#9;FILE&#9;file://D:/Java/workspace_idea/LeetCode-Note/src/linkedList/medium/ReverseLinkedList_92.java&#10;Runnable&#9;PSI&#9;JAVA://java.lang.Runnable&#10;AbortPolicy&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor.AbortPolicy&#10;FixedThread&#9;PSI&#9;JAVA://java.util.concurrent.Executors#newFixedThreadPool&#10;AQS&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java&#10;Executors&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/jre/lib/rt.jar!/java/util/concurrent/Executors.class&#10;ThreadPool&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;ExecutoS&#9;PSI&#9;JAVA://java.util.concurrent.ExecutorService&#10;Executo&#9;PSI&#9;JAVA://java.util.concurrent.Executor&#10;Threadl&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;Regu&#9;PSI&#9;JAVA://dp.hard.RegularExpressionMatching_10&#10;AtomicRe&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicReference&#10;Unsa&#9;PSI&#9;JAVA://sun.misc.Unsafe&#10;Uns&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/misc/Unsafe.class&#10;AtomicIn&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger&#10;Sem&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/Semaphore.java&#10;Count&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/jre/lib/rt.jar!/java/util/concurrent/CountDownLatch.class&#10;Reen&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;QuickS&#9;PSI&#9;JAVA://com.sun.jmx.snmp.agent.SnmpMibNode#QuickSort&#10;Fibo&#9;PSI&#9;JAVA://dp.easy.FibonacciNumber_509&#10;Nex&#9;PSI&#9;JAVA://stack.medium.NextGreaterElement_503&#10;Reentr&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;Cons&#9;PSI&#9;JAVA://tree.medium.ConstructBinaryTreeFromPreorderAndInorderTraversal_105&#10;reen&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;nonfair&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock.Sync#nonfairTryAcquire&#10;Aqs&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer&#10;Revers&#9;PSI&#9;JAVA://linkedList.easy.PalindromeLinkedList_234.Solution#reverse&#10;ObjectMo&#9;PSI&#9;JAVA://sun.management.VMManagementImpl#objectMonitorUsageSupport&#10;Object&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/lang/Object.java&#10;Synch&#9;PSI&#9;JAVA://java.util.Collections.SynchronizedList&#10;String&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/lang/String.java&#10;System&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/lang/System.java&#10;finalize&#9;PSI&#9;JAVA://java.lang.Object#finalize&#10;curren&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/ConcurrentHashMap.java&#10;hashT&#9;PSI&#9;JAVA://java.util.Hashtable&#10;currenthash&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;hashmap&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/HashMap.java&#10;Array&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/ArrayList.java&#10;treeset&#9;PSI&#9;JAVA://java.util.TreeSet&#10;LinkedHash&#9;PSI&#9;JAVA://java.util.LinkedHashSet&#10;HashS&#9;PSI&#9;JAVA://java.util.HashSet&#10;Queue&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/jre/lib/rt.jar!/java/util/Queue.class&#10;Collec&#9;PSI&#9;JAVA://java.util.Collection&#10;List&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/List.java&#10;Vecto&#9;PSI&#9;JAVA://java.util.Vector&#10;ArrayL&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/ArrayList.java&#10;depth&#9;PSI&#9;JAVA://tree.easy.CousinsInBinaryTree_993.Solution#depth" />
+    <property name="SearchEverywhereHistoryKey" value="Sub&#9;FILE&#9;file://D:/Java/workspace_idea/LeetCode-Note/src/tree/easy/SubtreeOfAnotherTree_572.java&#10;Sym&#9;PSI&#9;JAVA://tree.easy.SymmetricTree_101&#10;Subtr&#9;FILE&#9;file://D:/Java/workspace_idea/LeetCode-Note/src/tree/easy/SubtreeOfAnotherTree_572.java&#10;Subtree&#9;PSI&#9;JAVA://tree.medium.FindDuplicateSubtrees_652&#10;Reverse&#9;FILE&#9;file://D:/Java/workspace_idea/LeetCode-Note/src/linkedList/medium/ReverseLinkedList_92.java&#10;Runnable&#9;PSI&#9;JAVA://java.lang.Runnable&#10;AbortPolicy&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor.AbortPolicy&#10;FixedThread&#9;PSI&#9;JAVA://java.util.concurrent.Executors#newFixedThreadPool&#10;AQS&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java&#10;Executors&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/jre/lib/rt.jar!/java/util/concurrent/Executors.class&#10;ThreadPool&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;ExecutoS&#9;PSI&#9;JAVA://java.util.concurrent.ExecutorService&#10;Executo&#9;PSI&#9;JAVA://java.util.concurrent.Executor&#10;Threadl&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;Regu&#9;PSI&#9;JAVA://dp.hard.RegularExpressionMatching_10&#10;AtomicRe&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicReference&#10;Unsa&#9;PSI&#9;JAVA://sun.misc.Unsafe&#10;Uns&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/misc/Unsafe.class&#10;AtomicIn&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger&#10;Sem&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/Semaphore.java&#10;Count&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/jre/lib/rt.jar!/java/util/concurrent/CountDownLatch.class&#10;Reen&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;QuickS&#9;PSI&#9;JAVA://com.sun.jmx.snmp.agent.SnmpMibNode#QuickSort&#10;Fibo&#9;PSI&#9;JAVA://dp.easy.FibonacciNumber_509&#10;Nex&#9;PSI&#9;JAVA://stack.medium.NextGreaterElement_503&#10;Reentr&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;Cons&#9;PSI&#9;JAVA://tree.medium.ConstructBinaryTreeFromPreorderAndInorderTraversal_105&#10;reen&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;nonfair&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock.Sync#nonfairTryAcquire&#10;Aqs&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer&#10;Revers&#9;PSI&#9;JAVA://linkedList.easy.PalindromeLinkedList_234.Solution#reverse&#10;ObjectMo&#9;PSI&#9;JAVA://sun.management.VMManagementImpl#objectMonitorUsageSupport&#10;Object&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/lang/Object.java&#10;Synch&#9;PSI&#9;JAVA://java.util.Collections.SynchronizedList&#10;String&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/lang/String.java&#10;System&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/lang/System.java&#10;finalize&#9;PSI&#9;JAVA://java.lang.Object#finalize&#10;curren&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/ConcurrentHashMap.java&#10;hashT&#9;PSI&#9;JAVA://java.util.Hashtable&#10;currenthash&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;hashmap&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/HashMap.java&#10;Array&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/ArrayList.java&#10;treeset&#9;PSI&#9;JAVA://java.util.TreeSet&#10;LinkedHash&#9;PSI&#9;JAVA://java.util.LinkedHashSet&#10;HashS&#9;PSI&#9;JAVA://java.util.HashSet&#10;Queue&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/jre/lib/rt.jar!/java/util/Queue.class&#10;Collec&#9;PSI&#9;JAVA://java.util.Collection&#10;List&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/List.java&#10;Vecto&#9;PSI&#9;JAVA://java.util.Vector&#10;ArrayL&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/ArrayList.java" />
     <property name="last_opened_file_path" value="E:/go/workspace/bin/test.java" />
   </component>
   <component name="RecentsManager">
@@ -487,7 +533,7 @@
       <workItem from="1627135668033" duration="77286000" />
       <workItem from="1628064719656" duration="386395000" />
       <workItem from="1631356336771" duration="51565000" />
-      <workItem from="1631617570842" duration="50252000" />
+      <workItem from="1631617570842" duration="54092000" />
     </task>
     <task id="LOCAL-00001" summary="No.28 Implement strStr 添加新的解题方法">
       <created>1622197046545</created>
@@ -500,7 +546,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="914600000" />
+    <option name="totallyTimeSpent" value="918440000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -589,20 +635,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/tree/medium/ConstructBinaryTreeFromPreorderAndInorderTraversal_105.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1212">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/src.zip!/java/util/concurrent/locks/Lock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="198" column="48" lean-forward="false" selection-start-line="198" selection-start-column="48" selection-end-line="198" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/stack/easy/NextGreaterElement_496.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -1068,17 +1100,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree/easy/SubtreeOfAnotherTree_572.java">
+    <entry file="file://$PROJECT_DIR$/src/codingoffer/MirrorOfBinaryTree_27.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="43" column="115" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="43" selection-end-column="115" />
-          <folding />
+        <state relative-caret-position="352">
+          <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+          <folding>
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/codingoffer/SubStructureInTree_26.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
+        <state relative-caret-position="814">
           <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="54" selection-end-column="5" />
           <folding>
             <element signature="e#1544#1545#0" expanded="true" />
@@ -1087,13 +1122,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/codingoffer/MirrorOfBinaryTree_27.java">
+    <entry file="file://$PROJECT_DIR$/src/tree/easy/SubtreeOfAnotherTree_572.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="333">
+          <caret line="37" column="6" lean-forward="true" selection-start-line="37" selection-start-column="6" selection-end-line="44" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/easy/SymmetricTree_101.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="42" column="23" lean-forward="false" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codingoffer/SymmetricalBinaryTree_28.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
           <folding>
-            <element signature="e#680#681#0" expanded="true" />
-            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#1874#1875#0" expanded="true" />
+            <element signature="e#1905#1906#0" expanded="true" />
           </folding>
         </state>
       </provider>
