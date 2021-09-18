@@ -31,14 +31,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrintTreeFromTopToBottom_32.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PrintTreeFromTopToBottom_32.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codingoffer/PrintTreeFromTopToBottom_32.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            <state relative-caret-position="856">
+              <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="92" selection-end-column="5" />
               <folding>
                 <element signature="e#2348#2349#0" expanded="true" />
                 <element signature="e#2379#2380#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintTreeInLines_32_II.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/codingoffer/PrintTreeInLines_32_II.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+              <folding>
+                <element signature="e#2206#2207#0" expanded="true" />
+                <element signature="e#2237#2238#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -96,8 +109,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/dp/medium/LongestPalindromicSubstring_5.java" />
-        <option value="$PROJECT_DIR$/src/dp/medium/LongestPalindromicSubsequence_516.java" />
         <option value="$PROJECT_DIR$/src/dp/medium/PartitionEqualSubsetSum_416.java" />
         <option value="$PROJECT_DIR$/src/dp/medium/CoinChange_II_518.java" />
         <option value="$PROJECT_DIR$/src/greedy/medium/NonOverlappingIntervals_435.java" />
@@ -147,6 +158,8 @@
         <option value="$PROJECT_DIR$/src/codingoffer/MinInStack_30.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/StackPushPopOrder_31.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/PrintTreeFromTopToBottom_32.java" />
+        <option value="$PROJECT_DIR$/src/codingoffer/PrintTreeInLines_32.java" />
+        <option value="$PROJECT_DIR$/src/codingoffer/PrintTreeInLines_32_II.java" />
       </list>
     </option>
   </component>
@@ -520,7 +533,7 @@
       <workItem from="1627135668033" duration="77286000" />
       <workItem from="1628064719656" duration="386395000" />
       <workItem from="1631356336771" duration="51565000" />
-      <workItem from="1631617570842" duration="72229000" />
+      <workItem from="1631617570842" duration="74258000" />
     </task>
     <task id="LOCAL-00001" summary="No.28 Implement strStr 添加新的解题方法">
       <created>1622197046545</created>
@@ -533,7 +546,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="936577000" />
+    <option name="totallyTimeSpent" value="938606000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -550,7 +563,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32821724" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957596" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19221698" sideWeight="0.49597424" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28773585" sideWeight="0.49597424" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28773585" sideWeight="0.49597424" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.222759" sideWeight="0.8818737" order="0" side_tool="false" content_ui="combo" />
@@ -622,14 +635,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/codingoffer/RobotMove_13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-462">
-          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/codingoffer/CuttingRope_14.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -1125,11 +1130,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/codingoffer/PrintTreeFromTopToBottom_32.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        <state relative-caret-position="856">
+          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="92" selection-end-column="5" />
           <folding>
             <element signature="e#2348#2349#0" expanded="true" />
             <element signature="e#2379#2380#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codingoffer/PrintTreeInLines_32_II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="e#2206#2207#0" expanded="true" />
+            <element signature="e#2237#2238#0" expanded="true" />
           </folding>
         </state>
       </provider>
