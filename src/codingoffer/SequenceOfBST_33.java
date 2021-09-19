@@ -42,6 +42,5 @@ public class SequenceOfBST_33 {
             //每次递归遍历都切分出来了左右子树在数组中的索引范围，递归判断左右子树
             return verify(postorder, start, right - 1) && verify(postorder, right, end - 1);
         }
-
     }
 }
