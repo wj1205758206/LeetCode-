@@ -21,14 +21,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="ConvertBST.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/codingoffer/ConvertBST.java">
+      <file leaf-file-name="SerializeBinaryTrees_37.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/codingoffer/SerializeBinaryTrees_37.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            <state relative-caret-position="396">
+              <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
               <folding>
-                <element signature="e#1077#1078#0" expanded="true" />
-                <element signature="e#1111#1112#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#4014#4015#0" expanded="true" />
+                <element signature="e#4045#4046#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -63,7 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/greedy/medium/JumpGame_II_45.java" />
         <option value="$PROJECT_DIR$/src/greedy/medium/GasStation_134.java" />
         <option value="$PROJECT_DIR$/src/dp/medium/MinPathSum_64.java" />
         <option value="$PROJECT_DIR$/src/dp/hard/DungeonGame_174.java" />
@@ -114,6 +114,7 @@
         <option value="$PROJECT_DIR$/src/codingoffer/PathInTree_34.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/CopyComplexLinkedList_35.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/ConvertBST.java" />
+        <option value="$PROJECT_DIR$/src/codingoffer/SerializeBinaryTrees_37.java" />
       </list>
     </option>
   </component>
@@ -227,7 +228,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="SearchEverywhereHistoryKey" value="Conver&#9;PSI&#9;JAVA://tree.medium.ConvertBSTToGreaterTree_538&#10;PathSu&#9;PSI&#9;JAVA://tree.medium.PathSum_III_437&#10;PathSum&#9;PSI&#9;JAVA://tree.easy.PathSum_112&#10;Path&#9;PSI&#9;JAVA://tree.medium.PathSum_II_113&#10;Verify&#9;PSI&#9;JAVA://tree.medium.VerifyPreorderSerializationOfBinaryTree_331&#10;Verif&#9;PSI&#9;JAVA://tree.medium.VerifyPreorderSerializationOfBinaryTree_331&#10;ServiceLoad&#9;PSI&#9;JAVA://java.util.ServiceLoader&#10;Zig&#9;PSI&#9;JAVA://tree.medium.BinaryTreeZigzagLevelOrderTraversal_103&#10;Level&#9;PSI&#9;JAVA://tree.medium.BinaryTreeLevelOrderTraversal_102&#10;Class&#9;PSI&#9;JAVA://java.lang.Class&#10;URLCLAS&#9;PSI&#9;JAVA://java.net.URLClassLoader&#10;ExtLoad&#9;PSI&#9;JAVA://sun.misc.Launcher.ExtClassLoader&#10;Ext&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/javafx-src.zip!/com/sun/javafx/jmx/MXExtension.java&#10;ClassLoader&#9;PSI&#9;JAVA://java.lang.ClassLoader&#10;ExtensionClas&#9;PSI&#9;JAVA://com.sun.javafx.jmx.MXExtension#EXTENSION_CLASS_NAME&#10;bootstrapCl&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/jre/lib/ext/nashorn.jar!/jdk/nashorn/internal/runtime/linker/Bootstrap.class&#10;Sub&#9;FILE&#9;file://D:/Java/workspace_idea/LeetCode-Note/src/tree/easy/SubtreeOfAnotherTree_572.java&#10;Sym&#9;PSI&#9;JAVA://tree.easy.SymmetricTree_101&#10;Subtr&#9;FILE&#9;file://D:/Java/workspace_idea/LeetCode-Note/src/tree/easy/SubtreeOfAnotherTree_572.java&#10;Subtree&#9;PSI&#9;JAVA://tree.medium.FindDuplicateSubtrees_652&#10;Reverse&#9;FILE&#9;file://D:/Java/workspace_idea/LeetCode-Note/src/linkedList/medium/ReverseLinkedList_92.java&#10;Runnable&#9;PSI&#9;JAVA://java.lang.Runnable&#10;AbortPolicy&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor.AbortPolicy&#10;FixedThread&#9;PSI&#9;JAVA://java.util.concurrent.Executors#newFixedThreadPool&#10;AQS&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java&#10;Executors&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/jre/lib/rt.jar!/java/util/concurrent/Executors.class&#10;ThreadPool&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;ExecutoS&#9;PSI&#9;JAVA://java.util.concurrent.ExecutorService&#10;Executo&#9;PSI&#9;JAVA://java.util.concurrent.Executor&#10;Threadl&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;Regu&#9;PSI&#9;JAVA://dp.hard.RegularExpressionMatching_10&#10;AtomicRe&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicReference&#10;Unsa&#9;PSI&#9;JAVA://sun.misc.Unsafe&#10;Uns&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/misc/Unsafe.class&#10;AtomicIn&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger&#10;Sem&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/Semaphore.java&#10;Count&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/jre/lib/rt.jar!/java/util/concurrent/CountDownLatch.class&#10;Reen&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;QuickS&#9;PSI&#9;JAVA://com.sun.jmx.snmp.agent.SnmpMibNode#QuickSort&#10;Fibo&#9;PSI&#9;JAVA://dp.easy.FibonacciNumber_509&#10;Nex&#9;PSI&#9;JAVA://stack.medium.NextGreaterElement_503&#10;Reentr&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;Cons&#9;PSI&#9;JAVA://tree.medium.ConstructBinaryTreeFromPreorderAndInorderTraversal_105&#10;reen&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;nonfair&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock.Sync#nonfairTryAcquire&#10;Aqs&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer&#10;Revers&#9;PSI&#9;JAVA://linkedList.easy.PalindromeLinkedList_234.Solution#reverse&#10;ObjectMo&#9;PSI&#9;JAVA://sun.management.VMManagementImpl#objectMonitorUsageSupport&#10;Object&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/lang/Object.java&#10;Synch&#9;PSI&#9;JAVA://java.util.Collections.SynchronizedList" />
+    <property name="SearchEverywhereHistoryKey" value="LinkedHash&#9;PSI&#9;JAVA://java.util.LinkedHashMap&#10;Seria&#9;PSI&#9;JAVA://tree.medium.SerializeAndDeserializeBST_449&#10;Conver&#9;PSI&#9;JAVA://tree.medium.ConvertBSTToGreaterTree_538&#10;PathSu&#9;PSI&#9;JAVA://tree.medium.PathSum_III_437&#10;PathSum&#9;PSI&#9;JAVA://tree.easy.PathSum_112&#10;Path&#9;PSI&#9;JAVA://tree.medium.PathSum_II_113&#10;Verify&#9;PSI&#9;JAVA://tree.medium.VerifyPreorderSerializationOfBinaryTree_331&#10;Verif&#9;PSI&#9;JAVA://tree.medium.VerifyPreorderSerializationOfBinaryTree_331&#10;ServiceLoad&#9;PSI&#9;JAVA://java.util.ServiceLoader&#10;Zig&#9;PSI&#9;JAVA://tree.medium.BinaryTreeZigzagLevelOrderTraversal_103&#10;Level&#9;PSI&#9;JAVA://tree.medium.BinaryTreeLevelOrderTraversal_102&#10;Class&#9;PSI&#9;JAVA://java.lang.Class&#10;URLCLAS&#9;PSI&#9;JAVA://java.net.URLClassLoader&#10;ExtLoad&#9;PSI&#9;JAVA://sun.misc.Launcher.ExtClassLoader&#10;Ext&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/javafx-src.zip!/com/sun/javafx/jmx/MXExtension.java&#10;ClassLoader&#9;PSI&#9;JAVA://java.lang.ClassLoader&#10;ExtensionClas&#9;PSI&#9;JAVA://com.sun.javafx.jmx.MXExtension#EXTENSION_CLASS_NAME&#10;bootstrapCl&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/jre/lib/ext/nashorn.jar!/jdk/nashorn/internal/runtime/linker/Bootstrap.class&#10;Sub&#9;FILE&#9;file://D:/Java/workspace_idea/LeetCode-Note/src/tree/easy/SubtreeOfAnotherTree_572.java&#10;Sym&#9;PSI&#9;JAVA://tree.easy.SymmetricTree_101&#10;Subtr&#9;FILE&#9;file://D:/Java/workspace_idea/LeetCode-Note/src/tree/easy/SubtreeOfAnotherTree_572.java&#10;Subtree&#9;PSI&#9;JAVA://tree.medium.FindDuplicateSubtrees_652&#10;Reverse&#9;FILE&#9;file://D:/Java/workspace_idea/LeetCode-Note/src/linkedList/medium/ReverseLinkedList_92.java&#10;Runnable&#9;PSI&#9;JAVA://java.lang.Runnable&#10;AbortPolicy&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor.AbortPolicy&#10;FixedThread&#9;PSI&#9;JAVA://java.util.concurrent.Executors#newFixedThreadPool&#10;AQS&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java&#10;Executors&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/jre/lib/rt.jar!/java/util/concurrent/Executors.class&#10;ThreadPool&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;ExecutoS&#9;PSI&#9;JAVA://java.util.concurrent.ExecutorService&#10;Executo&#9;PSI&#9;JAVA://java.util.concurrent.Executor&#10;Threadl&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;Regu&#9;PSI&#9;JAVA://dp.hard.RegularExpressionMatching_10&#10;AtomicRe&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicReference&#10;Unsa&#9;PSI&#9;JAVA://sun.misc.Unsafe&#10;Uns&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/misc/Unsafe.class&#10;AtomicIn&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger&#10;Sem&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/Semaphore.java&#10;Count&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/jre/lib/rt.jar!/java/util/concurrent/CountDownLatch.class&#10;Reen&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;QuickS&#9;PSI&#9;JAVA://com.sun.jmx.snmp.agent.SnmpMibNode#QuickSort&#10;Fibo&#9;PSI&#9;JAVA://dp.easy.FibonacciNumber_509&#10;Nex&#9;PSI&#9;JAVA://stack.medium.NextGreaterElement_503&#10;Reentr&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;Cons&#9;PSI&#9;JAVA://tree.medium.ConstructBinaryTreeFromPreorderAndInorderTraversal_105&#10;reen&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;nonfair&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock.Sync#nonfairTryAcquire&#10;Aqs&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer&#10;Revers&#9;PSI&#9;JAVA://linkedList.easy.PalindromeLinkedList_234.Solution#reverse&#10;ObjectMo&#9;PSI&#9;JAVA://sun.management.VMManagementImpl#objectMonitorUsageSupport" />
     <property name="last_opened_file_path" value="E:/go/workspace/bin/test.java" />
   </component>
   <component name="RecentsManager">
@@ -251,7 +252,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PathInTree_34">
+  <component name="RunManager" selected="Application.SerializeBinaryTrees_37">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -297,6 +298,25 @@
       <module name="LeetCode-Note" />
       <envs />
     </configuration>
+    <configuration name="SerializeBinaryTrees_37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="codingoffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="codingoffer.SerializeBinaryTrees_37" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode-Note" />
+      <envs />
+    </configuration>
     <configuration name="SpiralPrintMetric_29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -324,25 +344,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="codingoffer.StackPushPopOrder_31" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LeetCode-Note" />
-      <envs />
-    </configuration>
-    <configuration name="SubStructureInTree_26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="codingoffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="codingoffer.SubStructureInTree_26" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -429,19 +430,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.SubStructureInTree_26" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SpiralPrintMetric_29" />
-      <item index="2" class="java.lang.String" itemvalue="Application.StackPushPopOrder_31" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SequenceOfBST_33" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PathInTree_34" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SpiralPrintMetric_29" />
+      <item index="1" class="java.lang.String" itemvalue="Application.StackPushPopOrder_31" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SequenceOfBST_33" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PathInTree_34" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SerializeBinaryTrees_37" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PathInTree_34" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SequenceOfBST_33" />
-        <item index="2" class="java.lang.String" itemvalue="Application.StackPushPopOrder_31" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SpiralPrintMetric_29" />
-        <item index="4" class="java.lang.String" itemvalue="Application.SubStructureInTree_26" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SerializeBinaryTrees_37" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PathInTree_34" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SequenceOfBST_33" />
+        <item index="3" class="java.lang.String" itemvalue="Application.StackPushPopOrder_31" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SpiralPrintMetric_29" />
       </list>
     </recent_temporary>
   </component>
@@ -480,7 +481,7 @@
       <workItem from="1627135668033" duration="77286000" />
       <workItem from="1628064719656" duration="386395000" />
       <workItem from="1631356336771" duration="51565000" />
-      <workItem from="1631617570842" duration="101988000" />
+      <workItem from="1631617570842" duration="113581000" />
     </task>
     <task id="LOCAL-00001" summary="No.28 Implement strStr 添加新的解题方法">
       <created>1622197046545</created>
@@ -493,7 +494,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="966336000" />
+    <option name="totallyTimeSpent" value="977929000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -509,8 +510,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32821724" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957596" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19221698" sideWeight="0.49597424" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28773585" sideWeight="0.49597424" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19221698" sideWeight="0.49597424" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28773585" sideWeight="0.49597424" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.222759" sideWeight="0.8818737" order="0" side_tool="false" content_ui="combo" />
@@ -582,32 +583,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/jre/lib/rt.jar!/java/util/concurrent/Executors.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13954#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="1196" column="22" lean-forward="false" selection-start-line="1196" selection-start-column="22" selection-end-line="1196" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/src.zip!/java/util/concurrent/RejectedExecutionHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="46" column="26" lean-forward="true" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -1106,11 +1081,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/codingoffer/ConvertBST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        <state relative-caret-position="374">
+          <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
           <folding>
             <element signature="e#1077#1078#0" expanded="true" />
             <element signature="e#1111#1112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/medium/SerializeAndDeserializeBST_449.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="109" column="38" lean-forward="true" selection-start-line="109" selection-start-column="38" selection-end-line="109" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/src.zip!/java/util/LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="509" column="5" lean-forward="true" selection-start-line="509" selection-start-column="5" selection-end-line="509" selection-end-column="5" />
+          <folding>
+            <element signature="e#19667#19668#0" expanded="true" />
+            <element signature="e#19695#19696#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codingoffer/SerializeBinaryTrees_37.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4014#4015#0" expanded="true" />
+            <element signature="e#4045#4046#0" expanded="true" />
           </folding>
         </state>
       </provider>
