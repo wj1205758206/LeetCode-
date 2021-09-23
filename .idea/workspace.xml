@@ -47,13 +47,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KLeastNumbers_40.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="KLeastNumbers_40.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codingoffer/KLeastNumbers_40.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            <state relative-caret-position="-748">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamMedian_41.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/codingoffer/StreamMedian_41.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#424#425#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -108,7 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/dp/medium/CheapestFlightsWithinKStops_787.java" />
         <option value="$PROJECT_DIR$/src/dp/hard/RegularExpressionMatching_10.java" />
         <option value="$PROJECT_DIR$/src/dp/hard/SuperEggDrop_887.java" />
         <option value="$PROJECT_DIR$/src/dp/hard/BurstBalloons_312.java" />
@@ -159,6 +174,7 @@
         <option value="$PROJECT_DIR$/src/backtrace/medium/MoreThanHalfNumber_39.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/MoreThanHalfNumber_39.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/KLeastNumbers_40.java" />
+        <option value="$PROJECT_DIR$/src/codingoffer/StreamMedian_41.java" />
       </list>
     </option>
   </component>
@@ -506,7 +522,7 @@
       <workItem from="1627135668033" duration="77286000" />
       <workItem from="1628064719656" duration="386395000" />
       <workItem from="1631356336771" duration="51565000" />
-      <workItem from="1631617570842" duration="130978000" />
+      <workItem from="1631617570842" duration="137529000" />
     </task>
     <task id="LOCAL-00001" summary="No.28 Implement strStr 添加新的解题方法">
       <created>1622197046545</created>
@@ -519,7 +535,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="995326000" />
+    <option name="totallyTimeSpent" value="1001877000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -608,17 +624,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/codingoffer/MergeSortedLists_25.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-          <folding>
-            <element signature="e#2467#2468#0" expanded="false" />
-            <element signature="e#2498#2499#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tree/medium/FindDuplicateSubtrees_652.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1049">
@@ -1127,10 +1132,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/codingoffer/KLeastNumbers_40.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        <state relative-caret-position="-748">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codingoffer/StreamMedian_41.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
           </folding>
         </state>
       </provider>
