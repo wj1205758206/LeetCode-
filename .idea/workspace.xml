@@ -21,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="SortArrayForMinNumber_45.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SortArrayForMinNumber_45.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codingoffer/SortArrayForMinNumber_45.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="71" column="29" lean-forward="true" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
+            <state relative-caret-position="-374">
+              <caret line="73" column="13" lean-forward="true" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,14 +33,92 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KLeastNumbers_40.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codingoffer/KLeastNumbers_40.java">
+      <file leaf-file-name="TranslateNumbersToStrings_46.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/codingoffer/TranslateNumbersToStrings_46.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="46" column="58" lean-forward="true" selection-start-line="46" selection-start-column="58" selection-end-line="46" selection-end-column="58" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="506">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CountNumbersWithUniqueDigits_357.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backtrace/medium/CountNumbersWithUniqueDigits_357.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-352">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenerateParentheses_22.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backtrace/medium/GenerateParentheses_22.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-477">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LetterCombinationsOfPhoneNumber_17.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backtrace/medium/LetterCombinationsOfPhoneNumber_17.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-961">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MatchsticksToSquare_473.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backtrace/medium/MatchsticksToSquare_473.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-572">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PalindromePartitioning_131.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backtrace/medium/PalindromePartitioning_131.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PartitionToKEqualSumSubsets_698.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backtrace/medium/PartitionToKEqualSumSubsets_698.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1672">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Permutations_46.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backtrace/medium/Permutations_46.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-638">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RestoreIPAddresses_93.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backtrace/medium/RestoreIPAddresses_93.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-373">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -74,7 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/codingoffer/DuplicateInArray_03.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/DuplicationInArrayNoEdit_04.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/FindPartiallySortedMatrix_04.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/ReplaceSpace_05.java" />
@@ -125,6 +202,7 @@
         <option value="$PROJECT_DIR$/src/codingoffer/NumbersOf1_43.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/DigitInSequence_44.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/SortArrayForMinNumber_45.java" />
+        <option value="$PROJECT_DIR$/src/codingoffer/TranslateNumbersToStrings_46.java" />
       </list>
     </option>
   </component>
@@ -200,7 +278,14 @@
               <item name="LeetCode-Note" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Note" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="codingoffer" type="462c0819:PsiDirectoryNode" />
+              <item name="backtrace" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Note" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="backtrace" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -243,7 +328,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SortArrayForMinNumber_45">
+  <component name="RunManager" selected="Application.TranslateNumbersToStrings_46">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -327,14 +412,14 @@
       <module name="LeetCode-Note" />
       <envs />
     </configuration>
-    <configuration name="StringPermutation_38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TranslateNumbersToStrings_46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="codingoffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="codingoffer.StringPermutation_38" />
+      <option name="MAIN_CLASS_NAME" value="codingoffer.TranslateNumbersToStrings_46" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -421,19 +506,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.StringPermutation_38" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MoreThanHalfNumber_39" />
-      <item index="2" class="java.lang.String" itemvalue="Application.GreaterSumOfSubarrays_42" />
-      <item index="3" class="java.lang.String" itemvalue="Application.NumbersOf1_43" />
-      <item index="4" class="java.lang.String" itemvalue="Application.SortArrayForMinNumber_45" />
+      <item index="0" class="java.lang.String" itemvalue="Application.MoreThanHalfNumber_39" />
+      <item index="1" class="java.lang.String" itemvalue="Application.GreaterSumOfSubarrays_42" />
+      <item index="2" class="java.lang.String" itemvalue="Application.NumbersOf1_43" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SortArrayForMinNumber_45" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TranslateNumbersToStrings_46" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SortArrayForMinNumber_45" />
-        <item index="1" class="java.lang.String" itemvalue="Application.NumbersOf1_43" />
-        <item index="2" class="java.lang.String" itemvalue="Application.GreaterSumOfSubarrays_42" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MoreThanHalfNumber_39" />
-        <item index="4" class="java.lang.String" itemvalue="Application.StringPermutation_38" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TranslateNumbersToStrings_46" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SortArrayForMinNumber_45" />
+        <item index="2" class="java.lang.String" itemvalue="Application.NumbersOf1_43" />
+        <item index="3" class="java.lang.String" itemvalue="Application.GreaterSumOfSubarrays_42" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MoreThanHalfNumber_39" />
       </list>
     </recent_temporary>
   </component>
@@ -472,7 +557,7 @@
       <workItem from="1627135668033" duration="77286000" />
       <workItem from="1628064719656" duration="386395000" />
       <workItem from="1631356336771" duration="51565000" />
-      <workItem from="1631617570842" duration="150762000" />
+      <workItem from="1631617570842" duration="158562000" />
     </task>
     <task id="LOCAL-00001" summary="No.28 Implement strStr 添加新的解题方法">
       <created>1622197046545</created>
@@ -485,7 +570,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1015110000" />
+    <option name="totallyTimeSpent" value="1022910000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -574,83 +659,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/tree/easy/SymmetricTree_101.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="42" column="23" lean-forward="false" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/codingoffer/SymmetricalBinaryTree_28.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1034">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-          <folding>
-            <element signature="e#1874#1875#0" expanded="false" />
-            <element signature="e#1905#1906#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/codingoffer/SpiralPrintMetric_29.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/codingoffer/MinInStack_30.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="e#938#939#0" expanded="false" />
-            <element signature="e#981#982#0" expanded="false" />
-            <element signature="e#1009#1010#0" expanded="false" />
-            <element signature="e#1055#1056#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/jre/lib/ext/nashorn.jar!/jdk/nashorn/internal/runtime/linker/Bootstrap.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#10166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/javafx-src.zip!/com/sun/javafx/jmx/MXExtension.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/src.zip!/java/security/ProtectionDomain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="106" column="16" lean-forward="true" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="16" />
-          <folding>
-            <element signature="e#7161#7162#0" expanded="false" />
-            <element signature="e#7199#7200#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/src.zip!/java/security/CodeSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/src.zip!/java/net/URLClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="339">
@@ -991,14 +999,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/backtrace/medium/Permutations_46.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-581">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tree/easy/KthLargestElementInStream_703.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1181">
@@ -1096,11 +1096,83 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/codingoffer/SortArrayForMinNumber_45.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="71" column="29" lean-forward="true" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
+        <state relative-caret-position="-374">
+          <caret line="73" column="13" lean-forward="true" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtrace/medium/CountNumbersWithUniqueDigits_357.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-352">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtrace/medium/GenerateParentheses_22.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-477">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtrace/medium/LetterCombinationsOfPhoneNumber_17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-961">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtrace/medium/MatchsticksToSquare_473.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-572">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtrace/medium/PalindromePartitioning_131.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtrace/medium/PartitionToKEqualSumSubsets_698.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1672">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtrace/medium/Permutations_46.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-638">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtrace/medium/RestoreIPAddresses_93.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-373">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codingoffer/TranslateNumbersToStrings_46.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
