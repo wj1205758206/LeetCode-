@@ -31,14 +31,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LongestSubStringWithoutDup_48.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LongestSubStringWithoutDup_48.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codingoffer/LongestSubStringWithoutDup_48.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            <state relative-caret-position="418">
+              <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UglyNumber_49.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/codingoffer/UglyNumber_49.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="469">
+              <caret line="58" column="29" lean-forward="true" selection-start-line="44" selection-start-column="12" selection-end-line="58" selection-end-column="29" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -135,7 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/codingoffer/ReplaceSpace_05.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/PrintListInReversedOrder_06.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/ConstructBinaryTree_07.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/NextNodeInBinaryTrees_08.java" />
@@ -186,6 +195,7 @@
         <option value="$PROJECT_DIR$/src/codingoffer/TranslateNumbersToStrings_46.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/MaxValueOfGifts_47.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/LongestSubStringWithoutDup_48.java" />
+        <option value="$PROJECT_DIR$/src/codingoffer/UglyNumber_49.java" />
       </list>
     </option>
   </component>
@@ -204,7 +214,7 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
-    <option name="width" value="1938" />
+    <option name="width" value="978" />
     <option name="height" value="1048" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -337,32 +347,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LongestSubStringWithoutDup_48">
+  <component name="RunManager" selected="Application.UglyNumber_49">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
-    </configuration>
-    <configuration name="GreaterSumOfSubarrays_42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="codingoffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="codingoffer.GreaterSumOfSubarrays_42" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LeetCode-Note" />
-      <envs />
     </configuration>
     <configuration name="LongestSubStringWithoutDup_48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -459,6 +450,25 @@
       <module name="LeetCode-Note" />
       <envs />
     </configuration>
+    <configuration name="UglyNumber_49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="codingoffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="codingoffer.UglyNumber_49" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode-Note" />
+      <envs />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -535,19 +545,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.MaxValueOfGifts_47" />
-      <item index="1" class="java.lang.String" itemvalue="Application.GreaterSumOfSubarrays_42" />
-      <item index="2" class="java.lang.String" itemvalue="Application.NumbersOf1_43" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SortArrayForMinNumber_45" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TranslateNumbersToStrings_46" />
-      <item index="5" class="java.lang.String" itemvalue="Application.LongestSubStringWithoutDup_48" />
+      <item index="1" class="java.lang.String" itemvalue="Application.NumbersOf1_43" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SortArrayForMinNumber_45" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TranslateNumbersToStrings_46" />
+      <item index="4" class="java.lang.String" itemvalue="Application.LongestSubStringWithoutDup_48" />
+      <item index="5" class="java.lang.String" itemvalue="Application.UglyNumber_49" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.LongestSubStringWithoutDup_48" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TranslateNumbersToStrings_46" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SortArrayForMinNumber_45" />
-        <item index="3" class="java.lang.String" itemvalue="Application.NumbersOf1_43" />
-        <item index="4" class="java.lang.String" itemvalue="Application.GreaterSumOfSubarrays_42" />
+        <item index="0" class="java.lang.String" itemvalue="Application.UglyNumber_49" />
+        <item index="1" class="java.lang.String" itemvalue="Application.LongestSubStringWithoutDup_48" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TranslateNumbersToStrings_46" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SortArrayForMinNumber_45" />
+        <item index="4" class="java.lang.String" itemvalue="Application.NumbersOf1_43" />
       </list>
     </recent_temporary>
   </component>
@@ -587,7 +597,7 @@
       <workItem from="1628064719656" duration="386395000" />
       <workItem from="1631356336771" duration="51565000" />
       <workItem from="1631617570842" duration="160036000" />
-      <workItem from="1632560950619" duration="15181000" />
+      <workItem from="1632560950619" duration="19624000" />
     </task>
     <task id="LOCAL-00001" summary="No.28 Implement strStr 添加新的解题方法">
       <created>1622197046545</created>
@@ -600,7 +610,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1039565000" />
+    <option name="totallyTimeSpent" value="1044008000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -689,13 +699,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/tree/medium/BinaryTreeLevelOrderTraversal_102.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="51" column="40" lean-forward="true" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tree/medium/BinaryTreeZigzagLevelOrderTraversal_103.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-536">
@@ -813,7 +816,7 @@
         <state relative-caret-position="198">
           <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -836,6 +839,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="385">
           <caret line="509" column="5" lean-forward="true" selection-start-line="509" selection-start-column="5" selection-end-line="509" selection-end-column="5" />
+          <folding>
+            <element signature="e#19667#19668#0" expanded="false" />
+            <element signature="e#19695#19696#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -882,7 +889,7 @@
         <state relative-caret-position="308">
           <caret line="53" column="47" lean-forward="true" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="47" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -935,7 +942,7 @@
         <state relative-caret-position="154">
           <caret line="65" column="46" lean-forward="true" selection-start-line="65" selection-start-column="46" selection-end-line="65" selection-end-column="46" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -945,7 +952,7 @@
         <state relative-caret-position="420">
           <caret line="46" column="58" lean-forward="true" selection-start-line="46" selection-start-column="58" selection-end-line="46" selection-end-column="58" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -955,7 +962,7 @@
         <state relative-caret-position="1562">
           <caret line="73" column="13" lean-forward="false" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1101,11 +1108,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/codingoffer/LongestSubStringWithoutDup_48.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        <state relative-caret-position="418">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codingoffer/UglyNumber_49.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="58" column="29" lean-forward="true" selection-start-line="44" selection-start-column="12" selection-end-line="58" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
