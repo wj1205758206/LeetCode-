@@ -43,12 +43,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UglyNumber_49.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UglyNumber_49.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codingoffer/UglyNumber_49.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
-              <caret line="58" column="29" lean-forward="true" selection-start-line="44" selection-start-column="12" selection-end-line="58" selection-end-column="29" />
+            <state relative-caret-position="-594">
+              <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="10" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FirstNotRepeatingChar_50.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/codingoffer/FirstNotRepeatingChar_50.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -145,7 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/codingoffer/PrintListInReversedOrder_06.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/ConstructBinaryTree_07.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/NextNodeInBinaryTrees_08.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/QueueWithTwoStacks_09.java" />
@@ -196,6 +207,7 @@
         <option value="$PROJECT_DIR$/src/codingoffer/MaxValueOfGifts_47.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/LongestSubStringWithoutDup_48.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/UglyNumber_49.java" />
+        <option value="$PROJECT_DIR$/src/codingoffer/FirstNotRepeatingChar_50.java" />
       </list>
     </option>
   </component>
@@ -347,13 +359,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UglyNumber_49">
+  <component name="RunManager" selected="Application.FirstNotRepeatingChar_50">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="FirstNotRepeatingChar_50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="codingoffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="codingoffer.FirstNotRepeatingChar_50" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode-Note" />
+      <envs />
     </configuration>
     <configuration name="LongestSubStringWithoutDup_48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -382,25 +413,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="codingoffer.MaxValueOfGifts_47" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LeetCode-Note" />
-      <envs />
-    </configuration>
-    <configuration name="NumbersOf1_43" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="codingoffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="codingoffer.NumbersOf1_43" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -545,19 +557,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.MaxValueOfGifts_47" />
-      <item index="1" class="java.lang.String" itemvalue="Application.NumbersOf1_43" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SortArrayForMinNumber_45" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TranslateNumbersToStrings_46" />
-      <item index="4" class="java.lang.String" itemvalue="Application.LongestSubStringWithoutDup_48" />
-      <item index="5" class="java.lang.String" itemvalue="Application.UglyNumber_49" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SortArrayForMinNumber_45" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TranslateNumbersToStrings_46" />
+      <item index="3" class="java.lang.String" itemvalue="Application.LongestSubStringWithoutDup_48" />
+      <item index="4" class="java.lang.String" itemvalue="Application.UglyNumber_49" />
+      <item index="5" class="java.lang.String" itemvalue="Application.FirstNotRepeatingChar_50" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.UglyNumber_49" />
-        <item index="1" class="java.lang.String" itemvalue="Application.LongestSubStringWithoutDup_48" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TranslateNumbersToStrings_46" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SortArrayForMinNumber_45" />
-        <item index="4" class="java.lang.String" itemvalue="Application.NumbersOf1_43" />
+        <item index="0" class="java.lang.String" itemvalue="Application.FirstNotRepeatingChar_50" />
+        <item index="1" class="java.lang.String" itemvalue="Application.UglyNumber_49" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LongestSubStringWithoutDup_48" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TranslateNumbersToStrings_46" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SortArrayForMinNumber_45" />
       </list>
     </recent_temporary>
   </component>
@@ -597,7 +609,7 @@
       <workItem from="1628064719656" duration="386395000" />
       <workItem from="1631356336771" duration="51565000" />
       <workItem from="1631617570842" duration="160036000" />
-      <workItem from="1632560950619" duration="19624000" />
+      <workItem from="1632560950619" duration="22457000" />
     </task>
     <task id="LOCAL-00001" summary="No.28 Implement strStr 添加新的解题方法">
       <created>1622197046545</created>
@@ -610,7 +622,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1044008000" />
+    <option name="totallyTimeSpent" value="1046841000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -699,13 +711,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/tree/medium/BinaryTreeZigzagLevelOrderTraversal_103.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-536">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/codingoffer/PrintTreeInZigzag_32_III.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -1118,9 +1123,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/codingoffer/UglyNumber_49.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="58" column="29" lean-forward="true" selection-start-line="44" selection-start-column="12" selection-end-line="58" selection-end-column="29" />
+        <state relative-caret-position="-594">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="10" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codingoffer/FirstNotRepeatingChar_50.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
