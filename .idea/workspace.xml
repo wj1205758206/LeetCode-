@@ -21,116 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="FirstNotRepeatingChar_50.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codingoffer/FirstNotRepeatingChar_50.java">
+      <file leaf-file-name="ReverseWordInSentence_58.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/codingoffer/ReverseWordInSentence_58.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MissingNumber_53.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codingoffer/MissingNumber_53.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-110">
-              <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KthNodeInBST_54.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codingoffer/KthNodeInBST_54.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="43" column="4" lean-forward="false" selection-start-line="43" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
-              <folding>
-                <element signature="e#1102#1103#0" expanded="true" />
-                <element signature="e#1133#1134#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TreeDepth_55.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codingoffer/TreeDepth_55.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="30" selection-end-column="5" />
-              <folding>
-                <element signature="e#558#559#0" expanded="true" />
-                <element signature="e#589#590#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BalanceBinaryTree_55.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codingoffer/BalanceBinaryTree_55.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-              <folding>
-                <element signature="e#1154#1155#0" expanded="true" />
-                <element signature="e#1185#1186#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NumbersAppearOnce_56.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codingoffer/NumbersAppearOnce_56.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NumberAppearThird_56.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codingoffer/NumberAppearThird_56.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TwoNumberWithSum_57.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/codingoffer/TwoNumberWithSum_57.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BalancedBinaryTree_110.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tree/easy/BalancedBinaryTree_110.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-352">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KthSmallestElementBST_230.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tree/medium/KthSmallestElementBST_230.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-924">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="66">
+              <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -165,7 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/codingoffer/NumberOf1InBinary_15.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/Power_16.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/Print1ToMaxOfNDigits_17.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/DeleteNodeInList_18.java" />
@@ -216,6 +110,7 @@
         <option value="$PROJECT_DIR$/src/codingoffer/NumbersAppearOnce_56.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/NumberAppearThird_56.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/TwoNumberWithSum_57.java" />
+        <option value="$PROJECT_DIR$/src/codingoffer/ReverseWordInSentence_58.java" />
       </list>
     </option>
   </component>
@@ -367,7 +262,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TwoNumberWithSum_57">
+  <component name="RunManager" selected="Application.ReverseWordInSentence_58">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -432,14 +327,14 @@
       <module name="LeetCode-Note" />
       <envs />
     </configuration>
-    <configuration name="MissingNumber_53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="NumbersAppearOnce_56" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="codingoffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="codingoffer.MissingNumber_53" />
+      <option name="MAIN_CLASS_NAME" value="codingoffer.NumbersAppearOnce_56" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -451,14 +346,14 @@
       <module name="LeetCode-Note" />
       <envs />
     </configuration>
-    <configuration name="NumbersAppearOnce_56" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ReverseWordInSentence_58" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="codingoffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="codingoffer.NumbersAppearOnce_56" />
+      <option name="MAIN_CLASS_NAME" value="codingoffer.ReverseWordInSentence_58" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -565,19 +460,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.MaxValueOfGifts_47" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MissingNumber_53" />
-      <item index="2" class="java.lang.String" itemvalue="Application.KthNodeInBST_54" />
-      <item index="3" class="java.lang.String" itemvalue="Application.BalanceBinaryTree_55" />
-      <item index="4" class="java.lang.String" itemvalue="Application.NumbersAppearOnce_56" />
-      <item index="5" class="java.lang.String" itemvalue="Application.TwoNumberWithSum_57" />
+      <item index="1" class="java.lang.String" itemvalue="Application.KthNodeInBST_54" />
+      <item index="2" class="java.lang.String" itemvalue="Application.BalanceBinaryTree_55" />
+      <item index="3" class="java.lang.String" itemvalue="Application.NumbersAppearOnce_56" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TwoNumberWithSum_57" />
+      <item index="5" class="java.lang.String" itemvalue="Application.ReverseWordInSentence_58" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TwoNumberWithSum_57" />
-        <item index="1" class="java.lang.String" itemvalue="Application.NumbersAppearOnce_56" />
-        <item index="2" class="java.lang.String" itemvalue="Application.BalanceBinaryTree_55" />
-        <item index="3" class="java.lang.String" itemvalue="Application.KthNodeInBST_54" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MissingNumber_53" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ReverseWordInSentence_58" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TwoNumberWithSum_57" />
+        <item index="2" class="java.lang.String" itemvalue="Application.NumbersAppearOnce_56" />
+        <item index="3" class="java.lang.String" itemvalue="Application.BalanceBinaryTree_55" />
+        <item index="4" class="java.lang.String" itemvalue="Application.KthNodeInBST_54" />
       </list>
     </recent_temporary>
   </component>
@@ -618,7 +513,7 @@
       <workItem from="1631356336771" duration="51565000" />
       <workItem from="1631617570842" duration="160036000" />
       <workItem from="1632560950619" duration="37267000" />
-      <workItem from="1632807677842" duration="14020000" />
+      <workItem from="1632807677842" duration="16283000" />
     </task>
     <task id="LOCAL-00001" summary="No.28 Implement strStr 添加新的解题方法">
       <created>1622197046545</created>
@@ -631,7 +526,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1075671000" />
+    <option name="totallyTimeSpent" value="1077934000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -720,23 +615,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/codingoffer/CopyComplexLinkedList_35.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree/medium/ConvertBSTToGreaterTree_538.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-140">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tree/medium/SerializeAndDeserializeBST_449.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="343">
@@ -1151,8 +1029,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/codingoffer/TwoNumberWithSum_57.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        <state relative-caret-position="66">
+          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="2866" column="18" lean-forward="false" selection-start-line="2866" selection-start-column="18" selection-end-line="2866" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codingoffer/ReverseWordInSentence_58.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
           <folding />
         </state>
       </provider>
