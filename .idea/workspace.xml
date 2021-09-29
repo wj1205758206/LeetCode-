@@ -33,16 +33,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InversePairs_51.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codingoffer/InversePairs_51.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="11" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FirstCommonNodeInLinkedList_52.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codingoffer/FirstCommonNodeInLinkedList_52.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -91,7 +81,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BalanceBinaryTree_55.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BalanceBinaryTree_55.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codingoffer/BalanceBinaryTree_55.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="440">
@@ -99,6 +89,18 @@
               <folding>
                 <element signature="e#1154#1155#0" expanded="true" />
                 <element signature="e#1185#1186#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumbersAppearOnce_56.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/codingoffer/NumbersAppearOnce_56.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -165,7 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/codingoffer/StringPathInMatrix_12.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/RobotMove_13.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/CuttingRope_14.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/NumberOf1InBinary_15.java" />
@@ -216,6 +217,7 @@
         <option value="$PROJECT_DIR$/src/codingoffer/KthNodeInBST_54.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/TreeDepth_55.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/BalanceBinaryTree_55.java" />
+        <option value="$PROJECT_DIR$/src/codingoffer/NumbersAppearOnce_56.java" />
       </list>
     </option>
   </component>
@@ -367,7 +369,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BalanceBinaryTree_55">
+  <component name="RunManager" selected="Application.NumbersAppearOnce_56">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -383,25 +385,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="codingoffer.BalanceBinaryTree_55" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LeetCode-Note" />
-      <envs />
-    </configuration>
-    <configuration name="InversePairs_51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="codingoffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="codingoffer.InversePairs_51" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -489,6 +472,25 @@
       <module name="LeetCode-Note" />
       <envs />
     </configuration>
+    <configuration name="NumbersAppearOnce_56" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="codingoffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="codingoffer.NumbersAppearOnce_56" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode-Note" />
+      <envs />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -565,19 +567,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.MaxValueOfGifts_47" />
-      <item index="1" class="java.lang.String" itemvalue="Application.InversePairs_51" />
-      <item index="2" class="java.lang.String" itemvalue="Application.NumberOfK_53" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MissingNumber_53" />
-      <item index="4" class="java.lang.String" itemvalue="Application.KthNodeInBST_54" />
-      <item index="5" class="java.lang.String" itemvalue="Application.BalanceBinaryTree_55" />
+      <item index="1" class="java.lang.String" itemvalue="Application.NumberOfK_53" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MissingNumber_53" />
+      <item index="3" class="java.lang.String" itemvalue="Application.KthNodeInBST_54" />
+      <item index="4" class="java.lang.String" itemvalue="Application.BalanceBinaryTree_55" />
+      <item index="5" class="java.lang.String" itemvalue="Application.NumbersAppearOnce_56" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.BalanceBinaryTree_55" />
-        <item index="1" class="java.lang.String" itemvalue="Application.KthNodeInBST_54" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MissingNumber_53" />
-        <item index="3" class="java.lang.String" itemvalue="Application.NumberOfK_53" />
-        <item index="4" class="java.lang.String" itemvalue="Application.InversePairs_51" />
+        <item index="0" class="java.lang.String" itemvalue="Application.NumbersAppearOnce_56" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BalanceBinaryTree_55" />
+        <item index="2" class="java.lang.String" itemvalue="Application.KthNodeInBST_54" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MissingNumber_53" />
+        <item index="4" class="java.lang.String" itemvalue="Application.NumberOfK_53" />
       </list>
     </recent_temporary>
   </component>
@@ -618,7 +620,7 @@
       <workItem from="1631356336771" duration="51565000" />
       <workItem from="1631617570842" duration="160036000" />
       <workItem from="1632560950619" duration="37267000" />
-      <workItem from="1632807677842" duration="6379000" />
+      <workItem from="1632807677842" duration="8725000" />
     </task>
     <task id="LOCAL-00001" summary="No.28 Implement strStr 添加新的解题方法">
       <created>1622197046545</created>
@@ -631,7 +633,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1068030000" />
+    <option name="totallyTimeSpent" value="1070376000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -720,13 +722,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/tree/medium/PathSum_II_113.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="129" column="26" lean-forward="true" selection-start-line="121" selection-start-column="12" selection-end-line="129" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tree/medium/PathSum_III_437.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1107">
@@ -1146,6 +1141,16 @@
           <folding>
             <element signature="e#1154#1155#0" expanded="true" />
             <element signature="e#1185#1186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codingoffer/NumbersAppearOnce_56.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
