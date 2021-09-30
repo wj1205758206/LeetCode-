@@ -87,7 +87,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QueueWithMax_59.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="QueueWithMax_59.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codingoffer/QueueWithMax_59.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="388">
@@ -96,6 +96,16 @@
                 <element signature="e#420#421#0" expanded="true" />
                 <element signature="e#493#494#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DicesProbability_60.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/codingoffer/DicesProbability_60.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -149,7 +159,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/codingoffer/RegularExpressionMatching_19.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/NumericStrings_20.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/ReorderArray_21.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/KthNodeFromEnd_22.java" />
@@ -200,6 +209,7 @@
         <option value="$PROJECT_DIR$/src/codingoffer/LeftRotateString_58.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/MaxInSlidingWindow_59.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/QueueWithMax_59.java" />
+        <option value="$PROJECT_DIR$/src/codingoffer/DicesProbability_60.java" />
       </list>
     </option>
   </component>
@@ -351,7 +361,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaxInSlidingWindow_59">
+  <component name="RunManager" selected="Application.DicesProbability_60">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -359,14 +369,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="BalanceBinaryTree_55" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="DicesProbability_60" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="codingoffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="codingoffer.BalanceBinaryTree_55" />
+      <option name="MAIN_CLASS_NAME" value="codingoffer.DicesProbability_60" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -549,19 +559,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.MaxValueOfGifts_47" />
-      <item index="1" class="java.lang.String" itemvalue="Application.BalanceBinaryTree_55" />
-      <item index="2" class="java.lang.String" itemvalue="Application.NumbersAppearOnce_56" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TwoNumberWithSum_57" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ReverseWordInSentence_58" />
-      <item index="5" class="java.lang.String" itemvalue="Application.MaxInSlidingWindow_59" />
+      <item index="1" class="java.lang.String" itemvalue="Application.NumbersAppearOnce_56" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TwoNumberWithSum_57" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ReverseWordInSentence_58" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MaxInSlidingWindow_59" />
+      <item index="5" class="java.lang.String" itemvalue="Application.DicesProbability_60" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MaxInSlidingWindow_59" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ReverseWordInSentence_58" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TwoNumberWithSum_57" />
-        <item index="3" class="java.lang.String" itemvalue="Application.NumbersAppearOnce_56" />
-        <item index="4" class="java.lang.String" itemvalue="Application.BalanceBinaryTree_55" />
+        <item index="0" class="java.lang.String" itemvalue="Application.DicesProbability_60" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MaxInSlidingWindow_59" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ReverseWordInSentence_58" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TwoNumberWithSum_57" />
+        <item index="4" class="java.lang.String" itemvalue="Application.NumbersAppearOnce_56" />
       </list>
     </recent_temporary>
   </component>
@@ -602,7 +612,7 @@
       <workItem from="1631356336771" duration="51565000" />
       <workItem from="1631617570842" duration="160036000" />
       <workItem from="1632560950619" duration="37267000" />
-      <workItem from="1632807677842" duration="27286000" />
+      <workItem from="1632807677842" duration="34452000" />
     </task>
     <task id="LOCAL-00001" summary="No.28 Implement strStr 添加新的解题方法">
       <created>1622197046545</created>
@@ -615,7 +625,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1088937000" />
+    <option name="totallyTimeSpent" value="1096103000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -631,8 +641,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3278302" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957596" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27240565" sideWeight="0.49597424" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28773585" sideWeight="0.49597424" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27240565" sideWeight="0.49597424" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28773585" sideWeight="0.49597424" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20075148" sideWeight="0.8818737" order="0" side_tool="false" content_ui="combo" />
@@ -704,13 +714,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/tree/easy/KthLargestElementInStream_703.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1181">
-          <caret line="60" column="10" lean-forward="false" selection-start-line="60" selection-start-column="10" selection-end-line="60" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/codingoffer/MoreThanHalfNumber_39.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -1142,6 +1145,14 @@
             <element signature="e#420#421#0" expanded="true" />
             <element signature="e#493#494#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codingoffer/DicesProbability_60.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
