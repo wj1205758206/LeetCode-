@@ -5,7 +5,9 @@
     <bookmark url="file://$PROJECT_DIR$/../JUC/src/blockqueue/ShareData.java" description="public class ShareData {&#10;}&#10;" line="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b23fad0-4682-4df6-98f3-3a0b5c4f9dc2" name="Default" comment="" />
+    <list default="true" id="1b23fad0-4682-4df6-98f3-3a0b5c4f9dc2" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/codingoffer/MaxProfit_63.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,19 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="LeftRotateString_58.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codingoffer/LeftRotateString_58.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-              <folding>
-                <element signature="e#205#206#0" expanded="true" />
-                <element signature="e#282#283#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MethodType.java" pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_131/src.zip!/java/lang/invoke/MethodType.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -110,11 +99,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LastNumberInCircle_62.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LastNumberInCircle_62.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codingoffer/LastNumberInCircle_62.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            <state relative-caret-position="66">
+              <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaxProfit_63.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/codingoffer/MaxProfit_63.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="42" column="26" lean-forward="false" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -159,7 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/codingoffer/KthNodeFromEnd_22.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/ReverseLinkedList_24.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/MergeSortedLists_25.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/SubStructureInTree_26.java" />
@@ -210,6 +208,7 @@
         <option value="$PROJECT_DIR$/src/codingoffer/DicesProbability_60.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/ContinousCards_61.java" />
         <option value="$PROJECT_DIR$/src/codingoffer/LastNumberInCircle_62.java" />
+        <option value="$PROJECT_DIR$/src/codingoffer/MaxProfit_63.java" />
       </list>
     </option>
   </component>
@@ -361,7 +360,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LastNumberInCircle_62">
+  <component name="RunManager" selected="Application.MaxProfit_63">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -445,14 +444,14 @@
       <module name="LeetCode-Note" />
       <envs />
     </configuration>
-    <configuration name="MaxValueOfGifts_47" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="MaxProfit_63" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="codingoffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="codingoffer.MaxValueOfGifts_47" />
+      <option name="MAIN_CLASS_NAME" value="codingoffer.MaxProfit_63" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -464,14 +463,14 @@
       <module name="LeetCode-Note" />
       <envs />
     </configuration>
-    <configuration name="ReverseWordInSentence_58" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MaxValueOfGifts_47" type="Application" factoryName="Application" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="codingoffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="codingoffer.ReverseWordInSentence_58" />
+      <option name="MAIN_CLASS_NAME" value="codingoffer.MaxValueOfGifts_47" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -559,19 +558,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.MaxValueOfGifts_47" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ReverseWordInSentence_58" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MaxInSlidingWindow_59" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DicesProbability_60" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ContinousCards_61" />
-      <item index="5" class="java.lang.String" itemvalue="Application.LastNumberInCircle_62" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MaxInSlidingWindow_59" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DicesProbability_60" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ContinousCards_61" />
+      <item index="4" class="java.lang.String" itemvalue="Application.LastNumberInCircle_62" />
+      <item index="5" class="java.lang.String" itemvalue="Application.MaxProfit_63" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.LastNumberInCircle_62" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ContinousCards_61" />
-        <item index="2" class="java.lang.String" itemvalue="Application.DicesProbability_60" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MaxInSlidingWindow_59" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ReverseWordInSentence_58" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MaxProfit_63" />
+        <item index="1" class="java.lang.String" itemvalue="Application.LastNumberInCircle_62" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ContinousCards_61" />
+        <item index="3" class="java.lang.String" itemvalue="Application.DicesProbability_60" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MaxInSlidingWindow_59" />
       </list>
     </recent_temporary>
   </component>
@@ -612,7 +611,7 @@
       <workItem from="1631356336771" duration="51565000" />
       <workItem from="1631617570842" duration="160036000" />
       <workItem from="1632560950619" duration="37267000" />
-      <workItem from="1632807677842" duration="40678000" />
+      <workItem from="1632807677842" duration="44215000" />
     </task>
     <task id="LOCAL-00001" summary="No.28 Implement strStr 添加新的解题方法">
       <created>1622197046545</created>
@@ -625,7 +624,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1102329000" />
+    <option name="totallyTimeSpent" value="1105866000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -714,13 +713,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/codingoffer/StreamMedian_41.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/backtrace/medium/Subsets_II_90.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-440">
@@ -1149,8 +1141,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/codingoffer/LastNumberInCircle_62.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        <state relative-caret-position="66">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codingoffer/MaxProfit_63.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="42" column="26" lean-forward="false" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
           <folding />
         </state>
       </provider>
