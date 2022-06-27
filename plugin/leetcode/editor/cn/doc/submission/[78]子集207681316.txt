@@ -1,0 +1,23 @@
+class Solution {
+
+        
+           List<List<Integer>> result = new ArrayList<>();
+
+        public List<List<Integer>> subsets(int[] nums) {
+            List<Integer> trace = new ArrayList<>();
+            backtrace(trace, nums, 0);
+            return result;
+        }
+
+        private void backtrace(List<Integer> trace, int[] nums, int start) {
+
+            result.add(new ArrayList<>(trace));
+            for (int i = start; i < nums.length; i++) {
+                trace.add(nums[i]);
+                backtrace(trace, nums, i + 1);
+                trace.remove(trace.size() - 1);
+            }
+        }
+}
+//runtime:0 ms
+//memory:38.5 MB

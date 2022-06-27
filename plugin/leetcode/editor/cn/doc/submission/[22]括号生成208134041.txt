@@ -1,0 +1,32 @@
+class Solution {
+        List<String> result = new ArrayList<>();
+
+        public List<String> generateParenthesis(int n) {
+            if (n <= 0)
+                return result;
+            String track = "";
+            backtrack(track, n, n);
+            return result;
+        }
+
+        private void backtrack(String track, int left, int right) {
+            if (right < left)
+                return;
+            if (left < 0 || right < 0)
+                return;
+            if (left == 0 && right == 0) {
+                result.add(track);
+                return;
+            }
+
+            track += "(";
+            backtrack(track, left - 1, right);
+            track = track.substring(0, track.length() - 1);
+
+            track += ")";
+            backtrack(track, left, right - 1);
+            track = track.substring(0, track.length() - 1);
+        }
+    }
+//runtime:1 ms
+//memory:38.5 MB
