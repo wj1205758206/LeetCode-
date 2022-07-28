@@ -1,0 +1,27 @@
+class Solution {
+    public int[] getLeastNumbers(int[] arr, int k) {
+        if (k == 0 || arr.length == 0) return new int[0];
+            if (k >= arr.length) return arr;
+
+            Queue<Integer> queue = new PriorityQueue<>((v1, v2) -> v2 - v1);
+
+            for (int num : arr) {
+                if (queue.size() < k) {
+                    queue.add(num);
+                } else if (num < queue.peek()) {
+                    queue.poll();
+                    queue.add(num);
+                }
+            }
+
+            int[] result = new int[queue.size()];
+            int i = 0;
+            for (Integer num : queue) {
+                result[i++] = num;
+            }
+
+            return result;
+    }
+}
+//runtime:11 ms
+//memory:39.6 MB

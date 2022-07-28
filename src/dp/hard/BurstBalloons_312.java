@@ -1,5 +1,8 @@
 package dp.hard;
 
+import java.util.HashMap;
+import java.util.HashSet;
+
 /**
  * 戳气球
  */
@@ -8,7 +11,6 @@ public class BurstBalloons_312 {
         Solution solution = new BurstBalloons_312().new Solution();
         System.out.println(solution.maxCoins(new int[]{3, 1, 5, 8}));
     }
-
     class Solution {
 
         public int maxCoins(int[] nums) {

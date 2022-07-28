@@ -6,14 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b23fad0-4682-4df6-98f3-3a0b5c4f9dc2" name="Default" comment="No.28 Implement strStr 添加新的解题方法">
-      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode-Note.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode-Note.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Note/codingoffer/AddTwoNumbers_65$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Note/codingoffer/AddTwoNumbers_65$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Note/codingoffer/AddTwoNumbers_65.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Note/codingoffer/AddTwoNumbers_65.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Note/codingoffer/CommonParentInTree_II_68$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Note/codingoffer/CommonParentInTree_II_68$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Note/codingoffer/CommonParentInTree_II_68$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Note/codingoffer/CommonParentInTree_II_68$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Note/codingoffer/CommonParentInTree_II_68.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Note/codingoffer/CommonParentInTree_II_68.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[148]排序链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[148]排序链表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dp/hard/BurstBalloons_312.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dp/hard/BurstBalloons_312.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -247,7 +241,7 @@
     <property name="SearchEverywhereHistoryKey" value="Slidin&#9;PSI&#9;JAVA://slidingWindow.hard.SlidingWindowMaximum_239&#10;hashcode&#9;PSI&#9;JAVA://java.lang.invoke.MethodType.ConcurrentWeakInternSet.WeakEntry#hashcode&#10;Balance&#9;PSI&#9;JAVA://tree.easy.BalancedBinaryTree_110&#10;Kth&#9;FILE&#9;file://D:/Java/workspace_idea/LeetCode-Note/src/tree/medium/KthSmallestElementBST_230.java&#10;quick&#9;PSI&#9;JAVA://codingoffer.KLeastNumbers_40.Solution#quickSort&#10;38&#9;FILE&#9;file://D:/Java/workspace_idea/LeetCode-Note/src/codingoffer/StringPermutation_38.java&#10;sub&#9;FILE&#9;file://D:/Java/workspace_idea/LeetCode-Note/src/backtrace/medium/Subsets_II_90.java&#10;quickso&#9;PSI&#9;JAVA://java.util.DualPivotQuicksort&#10;Quick&#9;PSI&#9;JAVA://codingoffer.KLeastNumbers_40.Solution#quickSort&#10;Per&#9;PSI&#9;JAVA://backtrace.medium.Permutations_46&#10;Perm&#9;PSI&#9;JAVA://backtrace.medium.Permutations_46&#10;LinkedHash&#9;PSI&#9;JAVA://java.util.LinkedHashMap&#10;Seria&#9;PSI&#9;JAVA://tree.medium.SerializeAndDeserializeBST_449&#10;Conver&#9;PSI&#9;JAVA://tree.medium.ConvertBSTToGreaterTree_538&#10;PathSu&#9;PSI&#9;JAVA://tree.medium.PathSum_III_437&#10;PathSum&#9;PSI&#9;JAVA://tree.easy.PathSum_112&#10;Path&#9;PSI&#9;JAVA://tree.medium.PathSum_II_113&#10;Verify&#9;PSI&#9;JAVA://tree.medium.VerifyPreorderSerializationOfBinaryTree_331&#10;Verif&#9;PSI&#9;JAVA://tree.medium.VerifyPreorderSerializationOfBinaryTree_331&#10;ServiceLoad&#9;PSI&#9;JAVA://java.util.ServiceLoader&#10;Zig&#9;PSI&#9;JAVA://tree.medium.BinaryTreeZigzagLevelOrderTraversal_103&#10;Level&#9;PSI&#9;JAVA://tree.medium.BinaryTreeLevelOrderTraversal_102&#10;Class&#9;PSI&#9;JAVA://java.lang.Class&#10;URLCLAS&#9;PSI&#9;JAVA://java.net.URLClassLoader&#10;ExtLoad&#9;PSI&#9;JAVA://sun.misc.Launcher.ExtClassLoader&#10;Ext&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/javafx-src.zip!/com/sun/javafx/jmx/MXExtension.java&#10;ClassLoader&#9;PSI&#9;JAVA://java.lang.ClassLoader&#10;ExtensionClas&#9;PSI&#9;JAVA://com.sun.javafx.jmx.MXExtension#EXTENSION_CLASS_NAME&#10;bootstrapCl&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/jre/lib/ext/nashorn.jar!/jdk/nashorn/internal/runtime/linker/Bootstrap.class&#10;Sub&#9;FILE&#9;file://D:/Java/workspace_idea/LeetCode-Note/src/tree/easy/SubtreeOfAnotherTree_572.java&#10;Sym&#9;PSI&#9;JAVA://tree.easy.SymmetricTree_101&#10;Subtr&#9;FILE&#9;file://D:/Java/workspace_idea/LeetCode-Note/src/tree/easy/SubtreeOfAnotherTree_572.java&#10;Subtree&#9;PSI&#9;JAVA://tree.medium.FindDuplicateSubtrees_652&#10;Reverse&#9;FILE&#9;file://D:/Java/workspace_idea/LeetCode-Note/src/linkedList/medium/ReverseLinkedList_92.java&#10;Runnable&#9;PSI&#9;JAVA://java.lang.Runnable&#10;AbortPolicy&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor.AbortPolicy&#10;FixedThread&#9;PSI&#9;JAVA://java.util.concurrent.Executors#newFixedThreadPool&#10;AQS&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java&#10;Executors&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/jre/lib/rt.jar!/java/util/concurrent/Executors.class&#10;ThreadPool&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;ExecutoS&#9;PSI&#9;JAVA://java.util.concurrent.ExecutorService&#10;Executo&#9;PSI&#9;JAVA://java.util.concurrent.Executor&#10;Threadl&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;Regu&#9;PSI&#9;JAVA://dp.hard.RegularExpressionMatching_10&#10;AtomicRe&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicReference&#10;Unsa&#9;PSI&#9;JAVA://sun.misc.Unsafe&#10;Uns&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/misc/Unsafe.class&#10;AtomicIn&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger&#10;Sem&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/Semaphore.java&#10;Count&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/jre/lib/rt.jar!/java/util/concurrent/CountDownLatch.class" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/go/workspace/bin/test.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
@@ -255,12 +249,12 @@
     <property name="settings.editor.selected.configurable" value="labuladong.id" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="tree.medium" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Java\workspace_idea\LeetCode-Note\src\linkedList\easy" />
       <recent name="D:\Java\workspace_idea\LeetCode-Note\src\linkedList\hard" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tree.medium" />
     </key>
   </component>
   <component name="RunManager" selected="Application.AddTwoNumbers_65">
@@ -468,6 +462,16 @@
       <workItem from="1656147945885" duration="6541000" />
       <workItem from="1656218361172" duration="216000" />
       <workItem from="1656218604461" duration="12887000" />
+      <workItem from="1657168847958" duration="12091000" />
+      <workItem from="1657213945100" duration="6537000" />
+      <workItem from="1657291584037" duration="10976000" />
+      <workItem from="1657339190962" duration="9502000" />
+      <workItem from="1657438966064" duration="5612000" />
+      <workItem from="1657460899117" duration="30589000" />
+      <workItem from="1657815768425" duration="8902000" />
+      <workItem from="1657992776281" duration="19044000" />
+      <workItem from="1658125379862" duration="65538000" />
+      <workItem from="1658470560307" duration="5758000" />
     </task>
     <task id="LOCAL-00001" summary="No.28 Implement strStr 添加新的解题方法">
       <created>1622197046545</created>

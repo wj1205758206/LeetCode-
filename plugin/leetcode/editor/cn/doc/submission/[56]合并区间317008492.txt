@@ -1,0 +1,21 @@
+class Solution {
+    public int[][] merge(int[][] intervals) {
+        LinkedList<int[]> result = new LinkedList<>();
+        Arrays.sort(intervals, (a,b) -> {
+            return a[0] - b[0]; // 按照起点升序排序
+        });
+        result.add(intervals[0]);
+        for(int i = 1; i < intervals.length; i++){
+            int[] curr = intervals[i];
+            int[] last = result.getLast();
+            if(curr[0] <= last[1]){ //当前线段起点≤上一个的终点，则相交
+                last[1] = Math.max(last[1], curr[1]); // 取终点最大值
+            }else{
+                result.add(curr); // 不相交则处理下一个待合并区间
+            }
+        }
+        return result.toArray(new int[0][0]);
+    }
+}
+//runtime:7 ms
+//memory:46.4 MB

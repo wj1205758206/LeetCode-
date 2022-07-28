@@ -1,0 +1,42 @@
+class Solution {
+        int count = 0;
+        public int reversePairs(int[] nums) {
+            merge(nums, 0, nums.length - 1);
+            return count;
+        }
+
+        private void merge(int[] nums, int left, int right) {
+            int mid = left + (right - left) / 2;
+            if (left < right) {
+                merge(nums, left, mid);
+                merge(nums, mid + 1, right);
+                mergeSort(nums, left, mid, right);
+            }
+        }
+
+        private void mergeSort(int[] nums, int left, int mid, int right) {
+            int[] temp = new int[right - left + 1];
+            int index = 0;
+            int p = left, q = mid + 1;
+
+            while (p <= mid && q <= right) {
+                if (nums[p] <= nums[q]) {
+                    temp[index++] = nums[p++];
+                } else {
+                    count += (mid - p + 1);
+                    temp[index++] = nums[q++];
+                }
+            }
+            while (p <= mid) {
+                temp[index++] = nums[p++];
+            }
+            while (q <= right) {
+                temp[index++] = nums[q++];
+            }
+            for (int i = 0; i < temp.length; i++) {
+                nums[left + i] = temp[i];
+            }
+        }
+    }
+//runtime:33 ms
+//memory:47.6 MB

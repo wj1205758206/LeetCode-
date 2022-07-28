@@ -1,0 +1,56 @@
+/*
+// Definition for a Node.
+class Node {
+    public int val;
+    public Node left;
+    public Node right;
+
+    public Node() {}
+
+    public Node(int _val) {
+        val = _val;
+    }
+
+    public Node(int _val,Node _left,Node _right) {
+        val = _val;
+        left = _left;
+        right = _right;
+    }
+};
+*/
+class Solution {
+        Node tail, head;
+
+        public Node treeToDoublyList(Node root) {
+            if (root == null)
+                return null;
+
+            dfs(root);
+
+           
+
+            return head;
+        }
+
+        private void dfs(Node cur) {
+            if (cur == null) return;
+
+            dfs(cur.left);
+
+            if (head == null) {
+                head = cur;
+                tail = head;
+            } else {
+                tail.right = cur;
+                cur.left = tail;
+                tail = cur;
+            }
+
+            dfs(cur.right);
+        }
+    }
+//runtime_error:java.lang.NullPointerException
+  at line 117, TreeNodeSerializer.isValid
+  at line 144, TreeNodeSerializer.serialize
+  at line 186, __Driver__.main
+//last_testcase:[4,2,5,1,3]
