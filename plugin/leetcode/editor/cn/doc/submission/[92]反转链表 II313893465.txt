@@ -1,0 +1,33 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+class Solution {
+    public ListNode reverseBetween(ListNode head, int left, int right) {
+        if(left == 1){
+            return reverseN(head,right);
+        }else{
+            head.next = reverseBetween(head.next, left-1, right-1);
+            return head;
+        }
+    }
+    public ListNode postDriver = null;
+    public ListNode reverseN(ListNode head, int n){
+        if(n == 1){
+            postDriver = head.next;
+            return head;
+        }
+        ListNode last = reverseN(head.next,n-1); // last成为n个反转后的头
+        head.next.next = head; // 箭头反转
+        head.next = postDriver;  // head成为最后一个，要续接上剩下的
+        return last; // last为反转后的头
+    }
+}
+//runtime:0 ms
+//memory:39.1 MB

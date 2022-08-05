@@ -1,0 +1,17 @@
+class Solution {
+    PriorityQueue<Integer> minHeap = new PriorityQueue<>();
+    public int findKthLargest(int[] nums, int k) {
+        for(int num : nums){
+            add(num, k);
+        }
+        return minHeap.peek();
+    }
+    public void add(int num, int k){
+        minHeap.add(num);
+        if(minHeap.size() > k){
+            minHeap.poll();
+        }
+    }
+}
+//runtime:3 ms
+//memory:41.5 MB

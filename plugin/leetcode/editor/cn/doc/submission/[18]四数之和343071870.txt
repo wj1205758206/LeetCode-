@@ -1,0 +1,46 @@
+class Solution {
+
+    public List<List<Integer>> fourSum(int[] nums, int target) {
+
+        Arrays.sort(nums);
+        return nSumTarget(nums, 4, 0, target);
+
+    }
+
+    public List<List<Integer>> nSumTarget(int[] nums, int n, int start, int target) {
+        List<List<Integer>> res = new ArrayList<>();
+        if (n < 2 || n > nums.length) return res;
+
+        if (n == 2) {
+            int left = start, right = nums.length - 1;
+            while (left < right) {
+                int sum = nums[left] + nums[right];
+                if (sum < target) {
+                    while (left < right && nums[left] == nums[++left]) ;
+                } else if (sum > target) {
+                    while (left < right && nums[right] == nums[--right]) ;
+                } else {
+                    res.add(new ArrayList<>(Arrays.asList(nums[left], nums[right])));
+                    while (left < right && nums[left] == nums[++left]) ;
+                    while (left < right && nums[right] == nums[--right]) ;
+                }
+            }
+        } else {
+            for (int i = start; i < nums.length; i++) {
+                List<List<Integer>> sub = nSumTarget(nums, n - 1, i + 1, target - nums[i]);
+                for (List<Integer> list : sub) {
+                    list.add(nums[i]);
+                }
+                while (i < nums.length - 1 && nums[i] == nums[i + 1]) i++;
+            }
+        }
+        return res;
+    }
+}
+
+//total_testcases:291
+//total_correct:134
+//input_formatted:[1,0,-1,0,-2,2]
+0
+//expected_output:[[-2,-1,1,2],[-2,0,0,2],[-1,0,0,1]]
+//code_output:[]
