@@ -1,0 +1,65 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+class Solution {
+            List<List<Integer>> res = new ArrayList<>();
+
+        Map<TreeNode, TreeNode> map = new HashMap<>();
+
+        public List<List<Integer>> pathSum(TreeNode root, int target) {
+            if (root == null)
+                return res;
+
+            Queue<TreeNode> queueNode = new LinkedList<>();
+            Queue<Integer> queueSum = new LinkedList<>();
+
+            queueNode.add(root);
+            queueSum.add(0);
+
+            while (!queueNode.isEmpty()) {
+                TreeNode node = queueNode.poll();
+                int sum = queueSum.poll() + node.val;
+                if (node.left == null && node.right == null) {
+                   if(sum == target){
+                       getPath(node);
+                   }
+                } else {
+                    if (node.left != null) {
+                        map.put(node.left, node);
+                        queueNode.add(node.left);
+                        queueSum.add(sum);
+                    }
+                    if (node.right != null) {
+                        map.put(node.right, node);
+                        queueNode.add(node.right);
+                        queueSum.add(sum);
+                    }
+                }
+            }
+
+            return res;
+        }
+        private void getPath(TreeNode node) {
+            List<Integer> list = new ArrayList<>();
+            while (node != null) {
+                list.add(node.val);
+                node = map.get(node);
+            }
+            Collections.reverse(list);
+            res.add(list);
+        }
+}
+//runtime:3 ms
+//memory:38.6 MB

@@ -1,0 +1,39 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+class Solution {
+    public void reorderList(ListNode head) {
+        Stack<ListNode> stack = new Stack<>();
+        ListNode p = head;
+        // 栈中保存在链表的倒序
+        while(p != null){
+            stack.push(p);
+            p = p.next;
+        }
+        p = head;
+        
+        while(p != null){
+            // p正向遍历，stack倒序遍历
+            ListNode lastNode = stack.pop();
+            // 需要提前保存一下p的下一个节点是哪个
+            ListNode next = p.next;
+            // 链表节点个数为偶数或者奇数时，判断结束的条件，
+            if(lastNode == next || lastNode.next == next){
+                lastNode.next = null;
+                break;
+            }
+            p.next = lastNode; // 首指向尾
+            lastNode.next = next; // 尾指向首
+            p = next; // 继续遍历
+        }
+    }
+}
+//runtime:4 ms
+//memory:44.1 MB

@@ -1,0 +1,33 @@
+class Solution {
+        List<List<Integer>> lists = new ArrayList<>();
+
+        public List<List<Integer>> pathSum(TreeNode root, int target) {
+            if (root == null)
+                return lists;
+            List<Integer> path = new ArrayList<>();
+
+            DFS(root, 0, path, target);
+
+            return lists;
+        }
+
+        private void DFS(TreeNode root, int sum, List<Integer> path, int target) {
+            //######先序遍历#########
+            path.add(root.val);
+            sum += root.val;
+
+            if (root.left == null && root.right == null && sum == target) {
+                lists.add(new ArrayList<>(path));
+            }
+            //######先序遍历#########
+
+            if (root.left != null)
+                DFS(root.left, sum, path, target);
+            if (root.right != null)
+                DFS(root.right, sum, path, target);
+
+            path.remove(path.size() - 1);
+        }
+    }
+//runtime:1 ms
+//memory:38.5 MB

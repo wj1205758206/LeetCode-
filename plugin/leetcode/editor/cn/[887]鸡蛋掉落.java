@@ -1,0 +1,45 @@
+
+//leetcode submit region begin(Prohibit modification and deletion)
+class Solution {
+    int[][] memory;
+
+    public int superEggDrop(int k, int n) {
+        memory = new int[k + 1][n + 1];
+        for (int[] row : memory) {
+            Arrays.fill(row, -1);
+        }
+
+        return dp(k, n);
+    }
+
+    public int dp(int k, int n) {
+        if (k == 1) return n;
+        if (n == 0) return 0;
+
+        if (memory[k][n] != -1)
+            return memory[k][n];
+
+        int result = Integer.MAX_VALUE;
+        int low = 1;
+        int high = n;
+        while (low <= high) {
+            int mid = (low + high) / 2;
+
+            int not_broken = dp(k, n - mid);
+            int broken = dp(k - 1, mid - 1);
+
+            if (broken > not_broken) {
+                high = mid - 1;
+                result = Math.min(result, broken + 1);
+            } else {
+                low = mid + 1;
+                result = Math.min(result, not_broken + 1);
+            }
+        }
+
+        memory[k][n] = result;
+
+        return result;
+    }
+}
+//leetcode submit region end(Prohibit modification and deletion)
