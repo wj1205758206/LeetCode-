@@ -5,25 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/../JUC/src/blockqueue/ShareData.java" description="public class ShareData {&#10;}&#10;" line="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b23fad0-4682-4df6-98f3-3a0b5c4f9dc2" name="Default" comment="No.28 Implement strStr 添加新的解题方法">
-      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[102]二叉树的层序遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[102]二叉树的层序遍历.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[514]自由之路.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[514]自由之路.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[583]两个字符串的删除操作.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[583]两个字符串的删除操作.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[74]搜索二维矩阵.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[74]搜索二维矩阵.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[102]二叉树的层序遍历.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[102]二叉树的层序遍历.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[125]验证回文串.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[125]验证回文串.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[15]三数之和.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[15]三数之和.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[26]删除有序数组中的重复项.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[26]删除有序数组中的重复项.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[300]最长递增子序列.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[300]最长递增子序列.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[354]俄罗斯套娃信封问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[354]俄罗斯套娃信封问题.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[3]无重复字符的最长子串.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[3]无重复字符的最长子串.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[416]分割等和子集.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[416]分割等和子集.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[494]目标和.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[494]目标和.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[514]自由之路.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[514]自由之路.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[518]零钱兑换 II.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[518]零钱兑换 II.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[92]反转链表 II.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[92]反转链表 II.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" />
-    </list>
+    <list default="true" id="1b23fad0-4682-4df6-98f3-3a0b5c4f9dc2" name="Default" comment="No.28 Implement strStr 添加新的解题方法" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -487,7 +469,8 @@
       <workItem from="1659610232855" duration="6096000" />
       <workItem from="1659671821086" duration="9880000" />
       <workItem from="1659750064365" duration="346000" />
-      <workItem from="1659750538405" duration="45356000" />
+      <workItem from="1659750538405" duration="47005000" />
+      <workItem from="1660543912036" duration="25000" />
     </task>
     <task id="LOCAL-00001" summary="No.28 Implement strStr 添加新的解题方法">
       <created>1622197046545</created>
