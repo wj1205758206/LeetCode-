@@ -12,7 +12,7 @@ class Solution {
 
     public void backtrack(String track, int left, int right) {
         //剪枝：一定是 ）结尾，所以剩余的 ）数量要大于 （ 数量
-        if (left < right) {
+        if (left > right) {
             return;
         }
         //剪枝：（ ）剩余的数量都必须大于0

@@ -12,7 +12,7 @@
  * }
  */
 class Solution {
-    public ListNode reverseKGroup(ListNode head, int k) {
+    public ListNode reverseKGroup(ListNode hea  d, int k) {
         if (head == null) return null;
         ListNode a, b;
         a = b = head;

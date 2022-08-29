@@ -5,7 +5,121 @@
     <bookmark url="file://$PROJECT_DIR$/../JUC/src/blockqueue/ShareData.java" description="public class ShareData {&#10;}&#10;" line="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b23fad0-4682-4df6-98f3-3a0b5c4f9dc2" name="Default" comment="No.28 Implement strStr 添加新的解题方法" />
+    <list default="true" id="1b23fad0-4682-4df6-98f3-3a0b5c4f9dc2" name="Default" comment="No.28 Implement strStr 添加新的解题方法">
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[105]从前序与中序遍历序列构造二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[105]从前序与中序遍历序列构造二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[122]买卖股票的最佳时机 II.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[122]买卖股票的最佳时机 II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[124]二叉树中的最大路径和.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[124]二叉树中的最大路径和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[143]重排链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[143]重排链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[17]电话号码的字母组合.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[17]电话号码的字母组合.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[200]岛屿数量.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[200]岛屿数量.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[22]括号生成.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[22]括号生成.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[25]K 个一组翻转链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[25]K 个一组翻转链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[46]全排列.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[46]全排列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[543]二叉树的直径.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[543]二叉树的直径.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[623]在二叉树中增加一行.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[623]在二叉树中增加一行.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[82]删除排序链表中的重复元素 II.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[82]删除排序链表中的重复元素 II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[876]链表的中间结点.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[876]链表的中间结点.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[剑指 Offer 07]重建二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/[剑指 Offer 07]重建二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[101]对称二叉树.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[101]对称二叉树.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[102]二叉树的层序遍历.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[102]二叉树的层序遍历.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[104]二叉树的最大深度.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[104]二叉树的最大深度.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[105]从前序与中序遍历序列构造二叉树.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[105]从前序与中序遍历序列构造二叉树.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[106]从中序与后序遍历序列构造二叉树.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[106]从中序与后序遍历序列构造二叉树.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[10]正则表达式匹配.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[10]正则表达式匹配.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[110]平衡二叉树.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[110]平衡二叉树.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[112]路径总和.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[112]路径总和.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[113]路径总和 II.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[113]路径总和 II.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[1143]最长公共子序列.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[1143]最长公共子序列.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[114]二叉树展开为链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[114]二叉树展开为链表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[116]填充每个节点的下一个右侧节点指针.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[116]填充每个节点的下一个右侧节点指针.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[121]买卖股票的最佳时机.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[121]买卖股票的最佳时机.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[122]买卖股票的最佳时机 II.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[122]买卖股票的最佳时机 II.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[123]买卖股票的最佳时机 III.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[123]买卖股票的最佳时机 III.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[124]二叉树中的最大路径和.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[124]二叉树中的最大路径和.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[129]求根节点到叶节点数字之和.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[129]求根节点到叶节点数字之和.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[138]复制带随机指针的链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[138]复制带随机指针的链表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[141]环形链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[141]环形链表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[142]环形链表 II.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[142]环形链表 II.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[143]重排链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[143]重排链表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[144]二叉树的前序遍历.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[144]二叉树的前序遍历.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[145]二叉树的后序遍历.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[145]二叉树的后序遍历.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[146]LRU 缓存.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[146]LRU 缓存.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[148]排序链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[148]排序链表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[160]相交链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[160]相交链表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[174]地下城游戏.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[174]地下城游戏.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[17]电话号码的字母组合.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[17]电话号码的字母组合.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[188]买卖股票的最佳时机 IV.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[188]买卖股票的最佳时机 IV.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[198]打家劫舍.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[198]打家劫舍.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[19]删除链表的倒数第 N 个结点.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[19]删除链表的倒数第 N 个结点.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[200]岛屿数量.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[200]岛屿数量.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[206]反转链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[206]反转链表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[207]课程表.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[207]课程表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[210]课程表 II.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[210]课程表 II.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[213]打家劫舍 II.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[213]打家劫舍 II.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[21]合并两个有序链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[21]合并两个有序链表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[226]翻转二叉树.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[226]翻转二叉树.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[22]括号生成.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[22]括号生成.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[234]回文链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[234]回文链表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[23]合并K个升序链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[23]合并K个升序链表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[24]两两交换链表中的节点.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[24]两两交换链表中的节点.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[25]K 个一组翻转链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[25]K 个一组翻转链表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[297]二叉树的序列化与反序列化.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[297]二叉树的序列化与反序列化.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[2]两数相加.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[2]两数相加.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[300]最长递增子序列.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[300]最长递增子序列.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[312]戳气球.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[312]戳气球.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[322]零钱兑换.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[322]零钱兑换.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[328]奇偶链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[328]奇偶链表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[337]打家劫舍 III.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[337]打家劫舍 III.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[344]反转字符串.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[344]反转字符串.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[39]组合总和.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[39]组合总和.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[416]分割等和子集.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[416]分割等和子集.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[437]路径总和 III.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[437]路径总和 III.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[450]删除二叉搜索树中的节点.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[450]删除二叉搜索树中的节点.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[45]跳跃游戏 II.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[45]跳跃游戏 II.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[460]LFU 缓存.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[460]LFU 缓存.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[46]全排列.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[46]全排列.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[494]目标和.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[494]目标和.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[50]Pow(x, n).md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[50]Pow(x, n).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[514]自由之路.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[514]自由之路.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[518]零钱兑换 II.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[518]零钱兑换 II.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[53]最大子数组和.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[53]最大子数组和.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[543]二叉树的直径.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[543]二叉树的直径.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[55]跳跃游戏.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[55]跳跃游戏.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[583]两个字符串的删除操作.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[583]两个字符串的删除操作.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[61]旋转链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[61]旋转链表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[623]在二叉树中增加一行.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[623]在二叉树中增加一行.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[62]不同路径.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[62]不同路径.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[64]最小路径和.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[64]最小路径和.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[654]最大二叉树.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[654]最大二叉树.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[662]二叉树最大宽度.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[662]二叉树最大宽度.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[69]x 的平方根 .md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[69]x 的平方根 .md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[700]二叉搜索树中的搜索.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[700]二叉搜索树中的搜索.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[701]二叉搜索树中的插入操作.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[701]二叉搜索树中的插入操作.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[70]爬楼梯.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[70]爬楼梯.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[712]两个字符串的最小ASCII删除和.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[712]两个字符串的最小ASCII删除和.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[714]买卖股票的最佳时机含手续费.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[714]买卖股票的最佳时机含手续费.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[72]编辑距离.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[72]编辑距离.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[77]组合.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[77]组合.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[787]K 站中转内最便宜的航班.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[787]K 站中转内最便宜的航班.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[78]子集.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[78]子集.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[797]所有可能的路径.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[797]所有可能的路径.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[82]删除排序链表中的重复元素 II.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[82]删除排序链表中的重复元素 II.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[83]删除排序链表中的重复元素.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[83]删除排序链表中的重复元素.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[86]分隔链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[86]分隔链表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[876]链表的中间结点.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[876]链表的中间结点.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[897]递增顺序搜索树.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[897]递增顺序搜索树.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[92]反转链表 II.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[92]反转链表 II.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[958]二叉树的完全性检验.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[958]二叉树的完全性检验.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[95]不同的二叉搜索树 II.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[95]不同的二叉搜索树 II.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[96]不同的二叉搜索树.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[96]不同的二叉搜索树.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[98]验证二叉搜索树.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[98]验证二叉搜索树.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[剑指 Offer 07]重建二叉树.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[剑指 Offer 07]重建二叉树.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[剑指 Offer 22]链表中倒数第k个节点.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[剑指 Offer 22]链表中倒数第k个节点.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[剑指 Offer 27]二叉树的镜像.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[剑指 Offer 27]二叉树的镜像.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[剑指 Offer 36]二叉搜索树与双向链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/plugin/leetcode/editor/cn/doc/content/[剑指 Offer 36]二叉搜索树与双向链表.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -230,21 +344,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="Slidin&#9;PSI&#9;JAVA://slidingWindow.hard.SlidingWindowMaximum_239&#10;hashcode&#9;PSI&#9;JAVA://java.lang.invoke.MethodType.ConcurrentWeakInternSet.WeakEntry#hashcode&#10;Balance&#9;PSI&#9;JAVA://tree.easy.BalancedBinaryTree_110&#10;Kth&#9;FILE&#9;file://D:/Java/workspace_idea/LeetCode-Note/src/tree/medium/KthSmallestElementBST_230.java&#10;quick&#9;PSI&#9;JAVA://codingoffer.KLeastNumbers_40.Solution#quickSort&#10;38&#9;FILE&#9;file://D:/Java/workspace_idea/LeetCode-Note/src/codingoffer/StringPermutation_38.java&#10;sub&#9;FILE&#9;file://D:/Java/workspace_idea/LeetCode-Note/src/backtrace/medium/Subsets_II_90.java&#10;quickso&#9;PSI&#9;JAVA://java.util.DualPivotQuicksort&#10;Quick&#9;PSI&#9;JAVA://codingoffer.KLeastNumbers_40.Solution#quickSort&#10;Per&#9;PSI&#9;JAVA://backtrace.medium.Permutations_46&#10;Perm&#9;PSI&#9;JAVA://backtrace.medium.Permutations_46&#10;LinkedHash&#9;PSI&#9;JAVA://java.util.LinkedHashMap&#10;Seria&#9;PSI&#9;JAVA://tree.medium.SerializeAndDeserializeBST_449&#10;Conver&#9;PSI&#9;JAVA://tree.medium.ConvertBSTToGreaterTree_538&#10;PathSu&#9;PSI&#9;JAVA://tree.medium.PathSum_III_437&#10;PathSum&#9;PSI&#9;JAVA://tree.easy.PathSum_112&#10;Path&#9;PSI&#9;JAVA://tree.medium.PathSum_II_113&#10;Verify&#9;PSI&#9;JAVA://tree.medium.VerifyPreorderSerializationOfBinaryTree_331&#10;Verif&#9;PSI&#9;JAVA://tree.medium.VerifyPreorderSerializationOfBinaryTree_331&#10;ServiceLoad&#9;PSI&#9;JAVA://java.util.ServiceLoader&#10;Zig&#9;PSI&#9;JAVA://tree.medium.BinaryTreeZigzagLevelOrderTraversal_103&#10;Level&#9;PSI&#9;JAVA://tree.medium.BinaryTreeLevelOrderTraversal_102&#10;Class&#9;PSI&#9;JAVA://java.lang.Class&#10;URLCLAS&#9;PSI&#9;JAVA://java.net.URLClassLoader&#10;ExtLoad&#9;PSI&#9;JAVA://sun.misc.Launcher.ExtClassLoader&#10;Ext&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/javafx-src.zip!/com/sun/javafx/jmx/MXExtension.java&#10;ClassLoader&#9;PSI&#9;JAVA://java.lang.ClassLoader&#10;ExtensionClas&#9;PSI&#9;JAVA://com.sun.javafx.jmx.MXExtension#EXTENSION_CLASS_NAME&#10;bootstrapCl&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/jre/lib/ext/nashorn.jar!/jdk/nashorn/internal/runtime/linker/Bootstrap.class&#10;Sub&#9;FILE&#9;file://D:/Java/workspace_idea/LeetCode-Note/src/tree/easy/SubtreeOfAnotherTree_572.java&#10;Sym&#9;PSI&#9;JAVA://tree.easy.SymmetricTree_101&#10;Subtr&#9;FILE&#9;file://D:/Java/workspace_idea/LeetCode-Note/src/tree/easy/SubtreeOfAnotherTree_572.java&#10;Subtree&#9;PSI&#9;JAVA://tree.medium.FindDuplicateSubtrees_652&#10;Reverse&#9;FILE&#9;file://D:/Java/workspace_idea/LeetCode-Note/src/linkedList/medium/ReverseLinkedList_92.java&#10;Runnable&#9;PSI&#9;JAVA://java.lang.Runnable&#10;AbortPolicy&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor.AbortPolicy&#10;FixedThread&#9;PSI&#9;JAVA://java.util.concurrent.Executors#newFixedThreadPool&#10;AQS&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java&#10;Executors&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/jre/lib/rt.jar!/java/util/concurrent/Executors.class&#10;ThreadPool&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;ExecutoS&#9;PSI&#9;JAVA://java.util.concurrent.ExecutorService&#10;Executo&#9;PSI&#9;JAVA://java.util.concurrent.Executor&#10;Threadl&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;Regu&#9;PSI&#9;JAVA://dp.hard.RegularExpressionMatching_10&#10;AtomicRe&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicReference&#10;Unsa&#9;PSI&#9;JAVA://sun.misc.Unsafe&#10;Uns&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/misc/Unsafe.class&#10;AtomicIn&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger&#10;Sem&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/Semaphore.java&#10;Count&#9;FILE&#9;jar://D:/Java/jdk1.8.0_131/jre/lib/rt.jar!/java/util/concurrent/CountDownLatch.class" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="labuladong.id" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Java\workspace_idea\LeetCode-Note\src\linkedList\easy" />
@@ -471,6 +576,8 @@
       <workItem from="1659750064365" duration="346000" />
       <workItem from="1659750538405" duration="47005000" />
       <workItem from="1660543912036" duration="25000" />
+      <workItem from="1660553127784" duration="38956000" />
+      <workItem from="1660878406186" duration="91677000" />
     </task>
     <task id="LOCAL-00001" summary="No.28 Implement strStr 添加新的解题方法">
       <created>1622197046545</created>

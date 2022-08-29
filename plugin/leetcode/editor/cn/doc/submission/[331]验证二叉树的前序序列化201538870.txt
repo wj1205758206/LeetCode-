@@ -1,0 +1,42 @@
+class Solution {
+    public boolean isValidSerialization(String preorder) {
+            int n = preorder.length();
+            int i = 0;
+            Stack<Integer> stack = new Stack<>();
+
+            /*栈初始化时有一个空的槽位，用来放置root根节点*/
+            stack.push(1);
+
+            while (i < n) {
+                /*在遍历过程中，如果栈为空了，也就是没有剩余的槽位可用了，则返回false*/
+                if (stack.isEmpty())
+                    return false;
+                /*跳过逗号*/
+                if (preorder.charAt(i) == ',') {
+                    i++;
+                } else if (preorder.charAt(i) == '#') {
+                    /*当前节点是空节点时，将栈顶元素减1，如果当前节点减1后还有剩余槽位，则重新压入更新槽位余量*/
+                    int top = stack.pop() - 1;
+                    if (top > 0) {
+                        stack.push(top);
+                    }
+                    i++;
+                } else {
+                    /*读入一个数字，由于逗号也占用一个索引，所以使用while循环每次索引停止在逗号位置*/
+                    while (i < n && preorder.charAt(i) != ',') {
+                        i++;
+                    }
+                    /*当读入的是非空节点是，需要将栈顶元素减1后，再扩充2个槽位*/
+                    int top = stack.pop() - 1;
+                    if (top > 0) {
+                        stack.push(top);
+                    }
+                    stack.push(2);
+                }
+            }
+            /*遍历结束后，如果栈为空，说明没有待填充的槽位，因此是一个合法序列，否则栈不为空，则序列不合法*/
+            return stack.isEmpty();
+        }
+}
+//runtime:4 ms
+//memory:36.6 MB

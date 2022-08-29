@@ -33,12 +33,17 @@ class Solution {
         }
 
         int rootVal = preorder[preStart];
+        // int rootVal = postorder[postEnd];
         int index = getIndex(inorder, rootVal);
         int leftSize = index - inStart;
 
         TreeNode root = new TreeNode(rootVal);
         root.left = build(preorder, preStart + 1, preStart + leftSize, inorder, inStart, index - 1);
         root.right = build(preorder, preStart + leftSize + 1, preEnd, inorder, index + 1, inEnd);
+
+        // root.left = build(postorder, postStart, postStart + leftSize - 1, inorder, inStart, index - 1);
+        // root.right = build(postorder, postStart + leftSize, postEnd - 1, inorder, index + 1, inEnd);
+
         return root;
     }
 

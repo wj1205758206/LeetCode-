@@ -26,7 +26,9 @@ class Solution {
 
             used[i] = true;
             track.add(nums[i]);
+
             backtrack(nums);
+
             track.remove(track.size() - 1);
             used[i] = false;
         }

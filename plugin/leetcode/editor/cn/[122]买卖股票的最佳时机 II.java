@@ -9,7 +9,7 @@ class Solution {
 
         for (int i = 0; i < n; i++) {
 
-            if (i == 0) {
+            if (i - 1 == -1) {
                 dp[i][0] = 0;
                 dp[i][1] = -prices[i];
                 continue;

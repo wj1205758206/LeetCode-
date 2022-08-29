@@ -39,9 +39,52 @@
 
 <div id="labuladong"><hr>
 
-**通知：[数据结构精品课 V1.6](https://aep.h5.xeknow.com/s/1XJHEO) 持续更新中，[第八期打卡挑战（升级版）](https://mp.weixin.qq.com/s/eUG2OOzY3k_ZTz-CFvtv5Q) 7/11 截止报名，B 站已更新 [核心算法框架系列视频](https://space.bilibili.com/14089380/channel/series)。**
+**通知：[数据结构精品课 V1.8](https://aep.h5.xeknow.com/s/1XJHEO) 持续更新中；[第十期刷题打卡挑战](https://mp.weixin.qq.com/s/eUG2OOzY3k_ZTz-CFvtv5Q) 最后一天报名。**
 
+<details><summary><strong>labuladong 思路</strong></summary>
+
+## 基本思路
+
+幂运算是经典的数学运算技巧了，建议你看下前文 [如何高效进行模幂运算](https://labuladong.github.io/article/fname.html?fname=superPower) 就能很容易理解解法代码里的思想了。这道题唯一有点恶心的就是 `k` 的取值范围特别大，不能直接加符号，否则会造成整型溢出，具体解法看代码吧。
+
+**标签：[数学](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAxODQxMDM0Mw==&action=getalbum&album_id=2122023604245659649)**
+
+## 解法代码
+
+```java
+class Solution {
+    public double myPow(double a, int k) {
+        if (k == 0) return 1;
+
+        if (k == Integer.MIN_VALUE) {
+            // 把 k 是 INT_MIN 的情况单独拿出来处理
+            // 避免 -k 整型溢出
+            return myPow(1 / a, -(k + 1)) / a;
+        }
+
+        if (k < 0) {
+            return myPow(1 / a, -k);
+        }
+
+        if (k % 2 == 1) {
+            // k 是奇数
+            return (a * myPow(a, k - 1));
+        } else {
+            // k 是偶数
+            double sub = myPow(a, k / 2);
+            return (sub * sub);
+        }
+    }
+}
+```
+
+**类似题目**：
+  - [剑指 Offer 16. 数值的整数次方 🟠](/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)
+
+</details>
 </div>
+
+
 
 
 
